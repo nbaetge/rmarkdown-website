@@ -1,30 +1,71 @@
 ---
-title: "Making free websites with RStudio's R Markdown"
-author:  "[Julie Lowndes](https://github.com/jules32) at [NCEAS](https://www.nceas.ucsb.edu/), 12/14/16"
+title: "Nicholas Baetge"
+author:  "Marine Science PhD Candidate @ [UCSB](https://www.igpms.ucsb.edu)"
 output:
   html_document:
     fig_width: 1
 ---
 
+* <nicholasbaetge@gmail.com>
+* [google scholar](https://scholar.google.com/citations?user=Ca8wN7sAAAAJ&hl=en) 
+* [github](https://github.com/nbaetge)
+* [twitter](https://twitter.com/nbaetge91)
+
 ----
-Hello
-It's possible to create well-designed websites for free using [RStudio's R Markdown](http://rmarkdown.rstudio.com/) and hosting them on [Github](http://github.com). This is very new and incredibly cool. It is a really powerful way to communicate science using the same reproducible workflow you use for your analyses and collaborations.
 
-***Creating websites with R Markdown can be done without knowing R or HTML, CSS, etc,*** and that's where we'll start. However, R Markdown integrates with these tools so the more you know the more complex and beautiful your website can be. This tutorial borrows heavily from a lot of great tutorials and resources you should check out too -- there are links throughout. 
+**Years ago, it occured to me that Darwin and Nietzche agreed on one thing: the defining characteristic of the organism is striving**
 
-The best way to learn is to follow along with your own laptop, but all are welcome. We'll spend half the time with the tutorial and half the time for you to work on your own website and get help. If you bring your laptop please do this beforehand: 
+P. Kalanithi in _When Breath Becomes Air_
 
-1. install [RStudio](https://www.rstudio.com/products/rstudio/download/)
-1. create a [GitHub]((http://github.com)) account ([advice](http://happygitwithr.com/github-acct.html))
-1. set up your computer to talk to GitHub
-    - have RStudio linked directly (preferred) ([instructions sections 8-14](http://happygitwithr.com/hello-git.html))
-    - or install the [Desktop App](https://desktop.github.com/)
-    - or be familiar with git commands for the command line ([tutorial](https://try.github.io/levels/1/challenges/1))
 
 ----
 
 
-**Examples:**
+# Who in the world am I?
 
-We have been using R Markdown for the Ocean Health Index:  [**ohi-science.org/ohi-global**](http://ohi-science.org/ohi-global).  
-And R Markdown is much more than just websites -- here's a [**one-minute video about R Markdown**](http://rmarkdown.rstudio.com/lesson-1.html) to get you excited. 
+<style>
+  .col2 {
+    columns: 2 200px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 200px; /* chrome, safari */
+    -moz-columns: 2 200px;    /* firefox */
+  }
+</style>
+ 
+
+<div class="col2">
+
+
+<left><img src="images/home_portrait.jpeg" width="350px"></left>  
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+Someone who thinks on the run and runs to think. Though sometimes I run to escape thinking. I dig in and focus on the task at hand. I focus on trying to run faster, harder, smarter, and better. But I try to respect my limits because I'm only human. I also try to remember to have fun; else, what's the point? 
+
+This running mentality transcends to other aspects of me,  increasingly the scientist in me. Not being shy to new challenges and  wanting to have fun, but also having an amazing support network and some luck have all worked to get me to where I am today: in the pursuit of a doctoral degree in the marine sciences. 
+
+I've been learning from and working with [Dr. Craig Carlson and his lab](https://labs.eemb.ucsb.edu/carlson/craig/), learning about the incessently fascinating world of marine microbes (read as: bacteria) and how they shape (and are shaped by) ocean biogeochemistry (read as: carbon cycling). I basically like to think about: 
+
+- why microbes are so good at recycling and what happens when they're not
+- whether they're initrinsically competitive or collaborative with one another
+- how the carbon that microbes use (or don't) moves around the oceans
+- how changes in microbially-mediated carbon flux might shift the way food webs and Earth's climate functions
+
+Poke around to learn more about my research and please, don't hesitate to contact me! 
+
+</div>
+
+
+
+
+
+
+

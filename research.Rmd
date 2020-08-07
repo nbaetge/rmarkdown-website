@@ -1,0 +1,34 @@
+---
+title: "Research"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+----
+
+**The tedium makes her ecstatic. She calls it he science paradox. It's the most brain crushing work a person can do, yet it can spring the mind enough to see what else but the mind is really out there** 
+
+R. Powers in _Overstory_
+
+----
+
+# **North Atlantic Aerosols and Marine Ecosystems Study (NAAMES)**
+
+<br>
+
+## DOC Export
+
+<br>
+
+## Bacterial Carbon Demand and Bioavailability
+
+<br>
+<br>
+
+# **Across the Channel Investigating Diel Dynamics (ACIDD)**
+
+----
+
+**This page is under construction**
