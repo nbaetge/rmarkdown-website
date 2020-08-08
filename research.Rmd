@@ -14,20 +14,50 @@ R. Powers in _Overstory_
 
 ----
 
-# **North Atlantic Aerosols and Marine Ecosystems Study (NAAMES)**
+## **North Atlantic Aerosols and Marine Ecosystems Study (NAAMES)**
 
 <br>
 
-## DOC Export
+<left><img src="images/NAAMESlogo.png" width="200px"></left>  
 
 <br>
 
-## Bacterial Carbon Demand and Bioavailability
+### DOC Accumulation and Export
+
+<div align = "right"><img src="images/storm.jpeg" width="350px"></div>  
+
+Published [here](https://doi.org/10.3389/fmars.2020.00227)
+
+Check out the poster [here](https://osm2020-agu.ipostersessions.com/default.aspx?s=EE-EA-F8-F3-B2-2A-99-45-3A-4C-A8-8A-60-42-E7-56)
+
+<br>
+
+### Bacterial Carbon Demand and DOC Bioavailability
+
+<div align = "right"><img src="images/doc_samples.jpg" width="350px"></div>  
+
+<br>
+
+### Microbial Response to Stratification 
+
+<div align = "right"><img src="images/ctd.jpeg" width="350px"></div>  
 
 <br>
 <br>
 
-# **Across the Channel Investigating Diel Dynamics (ACIDD)**
+## **Across the Channel Investigating Diel Dynamics (ACIDD)**
+
+<br>
+
+<left><img src="images/aciddlogo.jpg" width="250px"></left>  
+
+<br>
+
+Check out the overview [here](https://doi.org/10.5670/oceanog.2020.110)
+
+### Microbial Response to Ash Deposition
+
+<div align = "right"><img src="images/biotech_fire.jpeg" width="350px"></div>
 
 ----
 
