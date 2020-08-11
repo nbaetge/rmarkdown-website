@@ -7,18 +7,13 @@ output:
 ---
 ----
 
-The oceans teem with marine microbes at the mercy of currents. All of these viruses, bacteria, and eukaryotic protists (e.g. algae) are invisible to the naked eye, but are appreciable to biogeochemical cycles[^1]. That is just so WILD! Check out some of the research projects I'm involved with that are dedicated to studying these amazing lifeforms and the processes they influence. 
+The oceans teem with marine microbes that move at the mercy of currents. All of these viruses, bacteria, and eukaryotic protists (e.g. algae) are invisible to the naked eye, but are appreciable to biogeochemical cycles[^1]. That is just so WILD! 
+
+Below are the research projects I'm involved with that are dedicated to studying these amazing lifeforms and the processes they influence. 
 
 [^1]: Field, C. B., Behrenfeld, M. J., Randerson, J. T., and Falkowski, P. (1998). Primary production of the biosphere: Integrating terrestrial and oceanic components. Science (80-. ). 281, 237–240. 
 
 ----
-
-**The tedium makes her ecstatic. She calls it he science paradox. It's the most brain crushing work a person can do, yet it can spring the mind enough to see what else but the mind is really out there** 
-
-R. Powers in _Overstory_
-
-----
-
 
 ## <span style="color: #002A5E;">**North Atlantic Aerosols and Marine Ecosystems Study (NAAMES)**</span>
 
