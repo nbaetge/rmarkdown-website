@@ -4,7 +4,10 @@ title: "CV"
 
 ----
 
+
 <center><img src="images/aciddlab.jpg" width="500px"></center>
+
+
 
 ----
 

@@ -10,6 +10,7 @@ output:
 * [google scholar](https://scholar.google.com/citations?user=Ca8wN7sAAAAJ&hl=en) 
 * [github](https://github.com/nbaetge)
 * [twitter](https://twitter.com/nbaetge91)
+* cv
 
 ----
 
