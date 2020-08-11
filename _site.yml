@@ -6,8 +6,6 @@ navbar:
       href: research.html
     - text: "Outreach"
       href: outreach.html
-    - text: "CV"
-      href: cv.html
 output_dir: "."
 output:
   html_document:
