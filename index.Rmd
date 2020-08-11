@@ -21,31 +21,12 @@ P. Kalanithi in _When Breath Becomes Air_
 ----
 
 
-# Who in the world am I?
-
-<style>
-  .col2 {
-    columns: 2 200px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 200px; /* chrome, safari */
-    -moz-columns: 2 200px;    /* firefox */
-  }
-</style>
- 
-
-<div class="col2">
-
-
-<left><img src="images/home_portrait.jpeg" width="350px"></left>  
+# <span style="color: #002A5E;">**Who in the world am I?**</span>
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+<center><img src="images/home_portrait.jpeg" width="250px"></center>  
+
 <br>
 
 Someone who thinks on the run and runs to think. Though sometimes I run to escape thinking. I dig in and focus on the task at hand. I focus on trying to run faster, harder, smarter, and better. But I try to respect my limits because I'm only human. I also try to remember to have fun; else, what's the point? 
@@ -61,7 +42,6 @@ I've been learning from and working with [Dr. Craig Carlson and his lab](https:/
 
 Poke around to learn more about my research and **please, don't hesitate to contact me!** 
 
-</div>
 
 ----
 
