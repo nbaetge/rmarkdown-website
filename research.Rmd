@@ -40,7 +40,7 @@ In this [paper](https://doi.org/10.3389/fmars.2020.00227), we combined autonomou
 
 <br>
 
-### Publications
+### Manuscripts In Prep/In Review
 
 - Baetge, N. et al. Seasonal Regulation and Fate of Dissolved Organic Carbon Accumulation in the Northwest Atlantic. *In prep.*
 
@@ -50,6 +50,7 @@ In this [paper](https://doi.org/10.3389/fmars.2020.00227), we combined autonomou
 
 - Saliba, G., Chen, C., Lewis, S., Russell. L, Quinn, P., Bates, T., Bell, T., Lawler, M., Saltzman, E., Sanchez, K., Moore, R., Shook, M., Rivellini, L., Lee, A., Baetge, N., Carlson, C., Behrenfeld, M. (Submitted, JGR Atmospheres). Seasonal Differences and Variability of Concentrations, Chemical Composition, and Cloud Condensation Nuclei of Marine Aerosol over the North Atlantic. *Submitted*
 
+### Publications
 
 - [Baetge, N., Graff, J. R., Behrenfeld, M. J., & Carlson, C. A. (2020). Net Community Production, Dissolved Organic Carbon Accumulation, and Vertical Export in the Western North
 Atlantic. Frontiers in Marine Science, 7.](https://doi.org/10.3389/fmars.2020.00227) 

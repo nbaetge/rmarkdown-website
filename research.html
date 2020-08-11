@@ -391,13 +391,18 @@ div.tocify {
 <img src="images/storm.jpeg" width="350px">
 </center>
 <p><br></p>
-<div id="publications" class="section level3">
-<h3>Publications</h3>
+<div id="manuscripts-in-prepin-review" class="section level3">
+<h3>Manuscripts In Prep/In Review</h3>
 <ul>
 <li><p>Baetge, N. et al. Seasonal Regulation and Fate of Dissolved Organic Carbon Accumulation in the Northwest Atlantic. <em>In prep.</em></p></li>
 <li><p>Diaz, B., Knowles, B., Johns, C., Laber, C., Bondoc, K.G.V, Harvey, E., Lowenstein, D., Fredricks, H., Hunter, J., Haramaty, L., Natale, F., Graff, J., Haentjens, N., Baetge, N., Mojica, K., Gaube, P., Boss, E., Carlson, C., Behrenfeld, M., Van Mooy, B., and Bidle, K. Physiological state, virus infection, and mixing dynamics contextualize phytoplankton accumulation and loss in the North Atlantic. <em>In prep</em></p></li>
 <li><p>Hendrickson, B., Brooks, S., Thornton, D., Moore, R., Crosbie, E., Ziemba, L., Carlson, C., Baetge, N., Mirrielees, J., and Alsante, A. Role of Sea Surface Microlayer Properties in Cloud Formation. <em>In prep</em></p></li>
 <li><p>Saliba, G., Chen, C., Lewis, S., Russell. L, Quinn, P., Bates, T., Bell, T., Lawler, M., Saltzman, E., Sanchez, K., Moore, R., Shook, M., Rivellini, L., Lee, A., Baetge, N., Carlson, C., Behrenfeld, M. (Submitted, JGR Atmospheres). Seasonal Differences and Variability of Concentrations, Chemical Composition, and Cloud Condensation Nuclei of Marine Aerosol over the North Atlantic. <em>Submitted</em></p></li>
+</ul>
+</div>
+<div id="publications" class="section level3">
+<h3>Publications</h3>
+<ul>
 <li><p><a href="https://doi.org/10.3389/fmars.2020.00227">Baetge, N., Graff, J. R., Behrenfeld, M. J., &amp; Carlson, C. A. (2020). Net Community Production, Dissolved Organic Carbon Accumulation, and Vertical Export in the Western North Atlantic. Frontiers in Marine Science, 7.</a></p></li>
 <li><p><a href="https://doi.org/10.1073/pnas.1907574116">Saliba, G., Chen, C. L., Lewis, S., Russell, L. M., Rivellini, L. H., Lee, A. K., … &amp; Karp-Boss, L. (2019). Factors driving the seasonal and hourly variability of sea-spray aerosol number in the North Atlantic. Proceedings of the National Academy of Sciences, 116(41), 20309-20314.</a></p></li>
 <li><p><a href="https://doi.org/10.3389/fmars.2019.00122">Behrenfeld, M. J., Moore, R. H., Hostetler, C. A., Graff, J., Gaube, P., Russell, L. M., … &amp; Proctor, C. (2019). The North Atlantic aerosol and marine ecosystem study (NAAMES): science motive and mission overview. Frontiers in Marine Science, 6, 122.</a></p></li>
@@ -521,7 +526,7 @@ $(document).ready(function ()  {
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
       },
       ignoreSelector: ".toc-ignore",
       scrollTo: 0
