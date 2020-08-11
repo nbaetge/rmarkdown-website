@@ -5,6 +5,11 @@ output:
     toc: true
     toc_float: true
 ---
+----
+
+The oceans teem with marine microbes at the mercy of currents. All of these viruses, bacteria, and eukaryotic protists (e.g. algae) are invisible to the naked eye, but are appreciable to biogeochemical cycles[^1]. That is just so WILD! Check out some of the research projects I'm involved with that are dedicated to studying these amazing lifeforms and the processes they influence. 
+
+[^1]: Field, C. B., Behrenfeld, M. J., Randerson, J. T., and Falkowski, P. (1998). Primary production of the biosphere: Integrating terrestrial and oceanic components. Science (80-. ). 281, 237–240. 
 
 ----
 
@@ -14,51 +19,119 @@ R. Powers in _Overstory_
 
 ----
 
-## **North Atlantic Aerosols and Marine Ecosystems Study (NAAMES)**
+
+## <span style="color: #002A5E;">**North Atlantic Aerosols and Marine Ecosystems Study (NAAMES)**</span>
+
+
+<center><img src="images/NAAMESlogo.png" width="200px"></center>  
 
 <br>
 
-<left><img src="images/NAAMESlogo.png" width="200px"></left>  
+The Northwest Atlantic Ocean is a region characterized by both massive seasonal phytoplankton blooms [^2] and deep convective overturning events that can physically deliver organic carbon produced by phytoplankton to depth, [^3] [^4], where it can be sequestered on the timescales of ocean circulaiton. The region is consequently important in regulating the flux of atmospheric CO~2~ into the ocean.  
+
+The [NAAMES](https://naames.larc.nasa.gov) program was comprised of four field campaigns in the Northwest Atlantic involving coordinated ship, aircraft, remote sensing,  autonomous *in situ* sensing efforts. It was designed to resolve the dynamics and drivers of the annual phytoplankton bloom and their subsequent impacts on the atmosphere. The framework of NAAMES represented a great opportunity for us to track and assess the temporal and spatial dynamics of dissolved organic carbon (DOC), as well as the mechanisms that control its accumulation, persistence, and export.
+
+In this [paper](https://doi.org/10.3389/fmars.2020.00227), we combined autonomous float and ship-collected data to constrain the seasonal accumulation and export potential of DOC in the study region. We currently have a manuscript in preparation in which we assess the interplay between seasonal bacterioplankton-phytoplankton carbon flux and DOC accumulation and bioavailability over the large latitudinal range occupied by NAAMES.
+
+[^2]: Behrenfeld, M. J. (2010). Abandoning sverdrup’s critical depth hypothesis on phytoplankton blooms. Ecology 91, 977–989.
+
+[^3]: Carlson, C. A., Ducklow, H. W., and Michaels, A. F. (1994). Annual Flux of dissolved organic carbon from the euphotic zone in the northwestern Sargasso Sea. Nature 371, 405–408.
+
+[^4]: Dall’Olmo, G., Dingle, J., Polimene, L., Brewin, R. J. W., and Claustre, H. (2016). Substantial energy input to the mesopelagic ecosystem from the seasonal mixed-layer pump. Nat. Geosci. 9, 820–823.
 
 <br>
 
-### DOC Accumulation and Export
-
-<div align = "right"><img src="images/storm.jpeg" width="350px"></div>  
-
-Published [here](https://doi.org/10.3389/fmars.2020.00227)
-
-Check out the poster [here](https://osm2020-agu.ipostersessions.com/default.aspx?s=EE-EA-F8-F3-B2-2A-99-45-3A-4C-A8-8A-60-42-E7-56)
+<center><img src="images/storm.jpeg" width="350px"></center> 
 
 <br>
 
-### Bacterial Carbon Demand and DOC Bioavailability
+### Publications
 
-<div align = "right"><img src="images/doc_samples.jpg" width="350px"></div>  
+- Baetge, N. et al. Seasonal Regulation and Fate of Dissolved Organic Carbon Accumulation in the Northwest Atlantic. *In prep.*
+
+- Diaz, B., Knowles, B., Johns, C., Laber, C., Bondoc, K.G.V,  Harvey, E., Lowenstein, D., Fredricks, H., Hunter, J., Haramaty, L., Natale, F., Graff, J., Haentjens, N., Baetge, N., Mojica, K., Gaube, P., Boss, E., Carlson, C., Behrenfeld, M., Van Mooy, B., and Bidle, K. Physiological state, virus infection, and mixing dynamics contextualize phytoplankton accumulation and loss in the North Atlantic. *In prep*
+
+- Hendrickson, B., Brooks, S., Thornton, D., Moore, R., Crosbie, E., Ziemba, L., Carlson, C., Baetge, N., Mirrielees, J., and Alsante, A. Role of Sea Surface Microlayer Properties in Cloud Formation. *In prep*
+
+- Saliba, G., Chen, C., Lewis, S., Russell. L, Quinn, P., Bates, T., Bell, T., Lawler, M., Saltzman, E., Sanchez, K., Moore, R., Shook, M., Rivellini, L., Lee, A., Baetge, N., Carlson, C., Behrenfeld, M. (Submitted, JGR Atmospheres). Seasonal Differences and Variability of Concentrations, Chemical Composition, and Cloud Condensation Nuclei of Marine Aerosol over the North Atlantic. *Submitted*
+
+
+- [Baetge, N., Graff, J. R., Behrenfeld, M. J., & Carlson, C. A. (2020). Net Community Production, Dissolved Organic Carbon Accumulation, and Vertical Export in the Western North
+Atlantic. Frontiers in Marine Science, 7.](https://doi.org/10.3389/fmars.2020.00227) 
+
+- [Saliba, G., Chen, C. L., Lewis, S., Russell, L. M., Rivellini, L. H., Lee, A. K., ... & Karp-Boss, L. (2019). Factors driving the seasonal and hourly variability of sea-spray aerosol number in the North Atlantic. Proceedings of the National Academy of Sciences, 116(41), 20309-20314.](https://doi.org/10.1073/pnas.1907574116)
+
+- [Behrenfeld, M. J., Moore, R. H., Hostetler, C. A., Graff, J., Gaube, P., Russell, L. M., ... & Proctor, C. (2019). The North Atlantic aerosol and marine ecosystem study (NAAMES): science motive and mission overview. Frontiers in Marine Science, 6, 122.](https://doi.org/10.3389/fmars.2019.00122) 
+
 
 <br>
-
-### Microbial Response to Stratification 
-
-<div align = "right"><img src="images/ctd.jpeg" width="350px"></div>  
-
 <br>
-<br>
-
-## **Across the Channel Investigating Diel Dynamics (ACIDD)**
-
-<br>
-
-<left><img src="images/aciddlogo.jpg" width="250px"></left>  
-
-<br>
-
-Check out the overview [here](https://doi.org/10.5670/oceanog.2020.110)
-
-### Microbial Response to Ash Deposition
-
-<div align = "right"><img src="images/biotech_fire.jpeg" width="350px"></div>
 
 ----
 
-**This page is under construction**
+## <span style="color: #002A5E;">**Across the Channel Investigating Diel Dynamics (ACIDD)**</span>
+
+<br>
+
+<center><img src="images/aciddlogo.jpg" width="250px"></center>  
+
+<br>
+
+ACIDD was a student-led oceanographic research cruise that sought to document the daily rhythm of microbial processes in the Santa Barbara Channel (SBC). We secured ship time through the [UC Ship Funds](https://scripps.ucsd.edu/ships/uc-ship-funds-program) and over the course of a year, built a remarkable team that designed and planned achievable research objectives. When one of the California's largest recorded wildfire erupted days before our cruise, we were well prepared to respond quickly and take on a secondary objective: document and dissect the impacts of wildfire ash deposition on the marine ecosystems.
+
+<br>
+
+<center><img src="images/biotech_fire.jpeg" width="350px"></center>
+
+<br>
+
+### Publications
+
+- [Bisson, K. M., Baetge, N., Kramer, S. J., Catlett, D., Girling, G., McNair, H., ... & Closset, I. (2020). California Wildfire Burns Boundaries Between Science and Art. Oceanography, 33(1), 16-19.](https://doi.org/10.5670/oceanog.2020.110)
+
+<br>
+
+### Press
+
+- [UC Santa Barbara The Current, 6/17](https://www.news.ucsb.edu/2017/018029/tuning-channel)
+
+- [Scripps News, 12/17](https://scripps.ucsd.edu/news/field-night-shift-santa-barbara-channel)
+
+- [Daily Breeze](https://www.dailybreeze.com/2017/12/26/are-southern-california-wildfires-a-threat-to-local-marine-life-a-new-study-aims-to-find-out/)
+
+- [Popular Science, 12/17](https://www.popsci.com/how-wildfire-impacts-ocean/?con=TrueAnthem&dom=fb&lnk=TA&src=SOC&utm_campaign&utm_content=5a3415d704d30137c1128bfb&utm_medium&utm_source)
+
+- [Santa Barbara Independent, 2/18](https://www.independent.com/2018/02/12/thomas-fire-ash-sampled-santa-barbara-channel/)
+
+- [The Oceanography Society, 10/18](https://tos.org/pdfs/ocean_news_15.pdf)
+
+<br>
+<br>
+
+----
+
+## <span style="color: #002A5E;">**BIOS-SCOPE**</span>
+
+<center><img src="images/BiosScope-emblem.jpeg" width="300px"></center> 
+
+<br>
+
+Established in 2015, [BIOS-SCOPE](http://scope.bios.edu) is an ongoing research program focused on fieldwork in the vicinity of the Bermuda Atlantic Time-series Study ([BATS](http://bats.bios.edu)) site, one of the few locations in the global ocean with a long history of measurements. The program combines a wide array genomic, ecological, and oceanographic approaches to assess how microbes interact with each other and with chemical compounds to shape biogeochemical patterns. Much of my involvement with the program has been in support of the research by [Dr. Shuting Liu](https://scholar.google.com/citations?hl=en&user=e7KjxtMAAAAJ&view_op=list_works&sortby=pubdate), currently a postdoctoral scholar in Dr. Carlson's group. 
+
+<br>
+
+### Publications
+
+- Liu, S., Baetge, N., Comstock, J., Opalk, K., Parsons, R., Halewood, E., English, C., Giovannoni, S., Bolanos, L., Nelson, C., Vergin, K., Carlson, C. Stable isotope probing identifies bacterioplankton lineages capable of utilizing dissolved organic matter across a range of bioavailability. *Submitted*
+
+- [Liu, S., Parsons, R., Opalk, K., Baetge, N., Giovannoni, S., Bolaños, L. M., ... & Carlson, C. A. (2020). Different carboxyl-rich alicyclic molecules proxy compounds select distinct bacterioplankton for oxidation of dissolved organic matter in the mesopelagic Sargasso Sea. Limnol. Oceanogr, 9999, 1-22.](https://doi.org/10.1002/lno.11405)
+
+
+<br>
+
+<center><img src="images/ctd.jpeg" width="350px"></center>
+
+<br>
+<br>
+
+
