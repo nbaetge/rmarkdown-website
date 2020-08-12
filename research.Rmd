@@ -116,9 +116,11 @@ Established in 2015, [BIOS-SCOPE](http://scope.bios.edu) is an ongoing research 
 
 <br>
 
-### Publications
+### Manuscripts In Prep/In Review
 
 - Liu, S., Baetge, N., Comstock, J., Opalk, K., Parsons, R., Halewood, E., English, C., Giovannoni, S., Bolanos, L., Nelson, C., Vergin, K., Carlson, C. Stable isotope probing identifies bacterioplankton lineages capable of utilizing dissolved organic matter across a range of bioavailability. *Submitted*
+
+### Publications
 
 - [Liu, S., Parsons, R., Opalk, K., Baetge, N., Giovannoni, S., Bolaños, L. M., ... & Carlson, C. A. (2020). Different carboxyl-rich alicyclic molecules proxy compounds select distinct bacterioplankton for oxidation of dissolved organic matter in the mesopelagic Sargasso Sea. Limnol. Oceanogr, 9999, 1-22.](https://doi.org/10.1002/lno.11405)
 
