@@ -9,7 +9,7 @@ navbar:
 output_dir: "."
 output:
   html_document:
-    theme: spacelab
+    theme: paper
     highlight: textmate
 #    include:
 #      after_body: _footer.html
