@@ -42,13 +42,15 @@ In this [paper](https://doi.org/10.3389/fmars.2020.00227), we combined autonomou
 
 ### Manuscripts In Prep/In Review
 
-- Baetge, N. et al. Seasonal Regulation and Fate of Dissolved Organic Carbon Accumulation in the Northwest Atlantic. *In prep.*
+- Baetge, N. et al. Seasonal Regulation and Fate of Dissolved Organic Carbon Accumulation in the Northwest Atlantic. *In prep*
+
+- Bolaños, L., Choi, C.J., Worden, A., Baetge, N., Carlson, C., Giovannoni, S. Seasonality of the microbial community composition in the western North Atlantic. *In prep*
 
 - Diaz, B., Knowles, B., Johns, C., Laber, C., Bondoc, K.G.V,  Harvey, E., Lowenstein, D., Fredricks, H., Hunter, J., Haramaty, L., Natale, F., Graff, J., Haentjens, N., Baetge, N., Mojica, K., Gaube, P., Boss, E., Carlson, C., Behrenfeld, M., Van Mooy, B., and Bidle, K. Physiological state, virus infection, and mixing dynamics contextualize phytoplankton accumulation and loss in the North Atlantic. *In prep*
 
-- Hendrickson, B., Brooks, S., Thornton, D., Moore, R., Crosbie, E., Ziemba, L., Carlson, C., Baetge, N., Mirrielees, J., and Alsante, A. Role of Sea Surface Microlayer Properties in Cloud Formation. *In prep*
+- Hendrickson, B., Brooks, S., Thornton, D., Moore, R., Crosbie, E., Ziemba, L., Carlson, C., Baetge, N., Mirrielees, J., and Alsante, A. Role of Sea Surface Microlayer Properties in Cloud Formation. Frontiers in Marine Science. *In review*
 
-- Saliba, G., Chen, C., Lewis, S., Russell. L, Quinn, P., Bates, T., Bell, T., Lawler, M., Saltzman, E., Sanchez, K., Moore, R., Shook, M., Rivellini, L., Lee, A., Baetge, N., Carlson, C., Behrenfeld, M. (Submitted, JGR Atmospheres). Seasonal Differences and Variability of Concentrations, Chemical Composition, and Cloud Condensation Nuclei of Marine Aerosol over the North Atlantic. *Submitted*
+- Saliba, G., Chen, C., Lewis, S., Russell. L, Quinn, P., Bates, T., Bell, T., Lawler, M., Saltzman, E., Sanchez, K., Moore, R., Shook, M., Rivellini, L., Lee, A., Baetge, N., Carlson, C., Behrenfeld, M. Seasonal Differences and Variability of Concentrations, Chemical Composition, and Cloud Condensation Nuclei of Marine Aerosol over the North Atlantic. JGR Atmospheres. *In review*
 
 ### Publications
 
@@ -118,7 +120,7 @@ Established in 2015, [BIOS-SCOPE](http://scope.bios.edu) is an ongoing research 
 
 ### Manuscripts In Prep/In Review
 
-- Liu, S., Baetge, N., Comstock, J., Opalk, K., Parsons, R., Halewood, E., English, C., Giovannoni, S., Bolanos, L., Nelson, C., Vergin, K., Carlson, C. Stable isotope probing identifies bacterioplankton lineages capable of utilizing dissolved organic matter across a range of bioavailability. *Submitted*
+- Liu, S., Baetge, N., Comstock, J., Opalk, K., Parsons, R., Halewood, E., English, C., Giovannoni, S., Bolanos, L., Nelson, C., Vergin, K., Carlson, C. Stable isotope probing identifies bacterioplankton lineages capable of utilizing dissolved organic matter across a range of bioavailability. Frontiers in Marine Science. *In review*
 
 ### Publications
 

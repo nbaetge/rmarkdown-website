@@ -46,7 +46,7 @@ Poke around to learn more about my research and **please, don't hesitate to cont
 
 ----
 
-###### This website was last updated 10/2020
+###### This website was last updated `r format(Sys.Date(), '%B %d, %Y')`
 
 
 
