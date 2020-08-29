@@ -50,7 +50,7 @@ In this [paper](https://doi.org/10.3389/fmars.2020.00227), we combined autonomou
 
 - Hendrickson, B., Brooks, S., Thornton, D., Moore, R., Crosbie, E., Ziemba, L., Carlson, C., Baetge, N., Mirrielees, J., and Alsante, A. Role of Sea Surface Microlayer Properties in Cloud Formation. Frontiers in Marine Science. *In review*
 
-- Saliba, G., Chen, C., Lewis, S., Russell. L, Quinn, P., Bates, T., Bell, T., Lawler, M., Saltzman, E., Sanchez, K., Moore, R., Shook, M., Rivellini, L., Lee, A., Baetge, N., Carlson, C., Behrenfeld, M. Seasonal Differences and Variability of Concentrations, Chemical Composition, and Cloud Condensation Nuclei of Marine Aerosol over the North Atlantic. JGR Atmospheres. *In review*
+- Saliba, G., Chen, C., Lewis, S., Russell. L, Quinn, P., Bates, T., Bell, T., Lawler, M., Saltzman, E., Sanchez, K., Moore, R., Shook, M., Rivellini, L., Lee, A., Baetge, N., Carlson, C., Behrenfeld, M. Seasonal Differences and Variability of Concentrations, Chemical Composition, and Cloud Condensation Nuclei of Marine Aerosol over the North Atlantic. JGR Atmospheres. *In press*
 
 ### Publications
 
