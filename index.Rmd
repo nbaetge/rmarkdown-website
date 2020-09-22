@@ -14,9 +14,9 @@ output:
 
 ----
 
-**Years ago, it occured to me that Darwin and Nietzsche agreed on one thing: the defining characteristic of the organism is striving**
+**When you change the way you look at thing, the things you look at change**
 
-P. Kalanithi in _When Breath Becomes Air_
+M. Planck
 
 
 ----
@@ -26,7 +26,7 @@ P. Kalanithi in _When Breath Becomes Air_
 
 <br>
 
-<center><img src="images/home_portrait.jpeg" width="250px"></center>  
+<center><img src="images/me.png" width="750px"></center>  
 
 <br>
 
