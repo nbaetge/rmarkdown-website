@@ -50,12 +50,12 @@ In this [paper](https://doi.org/10.3389/fmars.2020.00227), we combined autonomou
 
 - Hendrickson, B., Brooks, S., Thornton, D., Moore, R., Crosbie, E., Ziemba, L., Carlson, C., Baetge, N., Mirrielees, J., and Alsante, A. Role of Sea Surface Microlayer Properties in Cloud Formation. Frontiers in Marine Science. *In review*
 
-- Saliba, G., Chen, C., Lewis, S., Russell. L, Quinn, P., Bates, T., Bell, T., Lawler, M., Saltzman, E., Sanchez, K., Moore, R., Shook, M., Rivellini, L., Lee, A., Baetge, N., Carlson, C., Behrenfeld, M. Seasonal Differences and Variability of Concentrations, Chemical Composition, and Cloud Condensation Nuclei of Marine Aerosol over the North Atlantic. JGR Atmospheres. *In press*
-
 ### Publications
 
+- [Saliba, G., Chen, C., Lewis, S., Russell. L, Quinn, P., Bates, T., Bell, T., Lawler, M., Saltzman, E., Sanchez, K., Moore, R., Shook, M., Rivellini, L., Lee, A., Baetge, N., Carlson, C., Behrenfeld, M. Seasonal Differences and Variability of Concentrations, Chemical Composition, and Cloud Condensation Nuclei of Marine Aerosol over the North Atlantic. Journal of Geophysical Research: Atmospheres, 125(19).](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD033145) 
+
 - [Baetge, N., Graff, J. R., Behrenfeld, M. J., & Carlson, C. A. (2020). Net Community Production, Dissolved Organic Carbon Accumulation, and Vertical Export in the Western North
-Atlantic. Frontiers in Marine Science, 7.](https://doi.org/10.3389/fmars.2020.00227) 
+Atlantic. Frontiers in Marine Science, 7, 227.](https://doi.org/10.3389/fmars.2020.00227) 
 
 - [Saliba, G., Chen, C. L., Lewis, S., Russell, L. M., Rivellini, L. H., Lee, A. K., ... & Karp-Boss, L. (2019). Factors driving the seasonal and hourly variability of sea-spray aerosol number in the North Atlantic. Proceedings of the National Academy of Sciences, 116(41), 20309-20314.](https://doi.org/10.1073/pnas.1907574116)
 
@@ -118,13 +118,12 @@ Established in 2015, [BIOS-SCOPE](http://scope.bios.edu) is an ongoing research 
 
 <br>
 
-### Manuscripts In Prep/In Review
-
-- Liu, S., Baetge, N., Comstock, J., Opalk, K., Parsons, R., Halewood, E., English, C., Giovannoni, S., Bolanos, L., Nelson, C., Vergin, K., Carlson, C. Stable isotope probing identifies bacterioplankton lineages capable of utilizing dissolved organic matter across a range of bioavailability. Frontiers in Marine Science. *In press*
 
 ### Publications
 
-- [Liu, S., Parsons, R., Opalk, K., Baetge, N., Giovannoni, S., Bolaños, L. M., ... & Carlson, C. A. (2020). Different carboxyl-rich alicyclic molecules proxy compounds select distinct bacterioplankton for oxidation of dissolved organic matter in the mesopelagic Sargasso Sea. Limnol. Oceanogr, 9999, 1-22.](https://doi.org/10.1002/lno.11405)
+- [Liu, S., Baetge, N., Comstock, J., Opalk, K., Parsons, R., Halewood, E., English, C., Giovannoni, S., Bolanos, L., Nelson, C., Vergin, K., Carlson, C. Stable isotope probing identifies bacterioplankton lineages capable of utilizing dissolved organic matter across a range of bioavailability. Frontiers in Marine Science, 11, 2364.](https://www.frontiersin.org/articles/10.3389/fmicb.2020.580397/abstract) 
+
+- [Liu, S., Parsons, R., Opalk, K., Baetge, N., Giovannoni, S., Bolaños, L. M., ... & Carlson, C. A. (2020). Different carboxyl-rich alicyclic molecules proxy compounds select distinct bacterioplankton for oxidation of dissolved organic matter in the mesopelagic Sargasso Sea. Limnology and Oceanography, 65(7), 1532-1553, 1-22.](https://doi.org/10.1002/lno.11405)
 
 
 <br>
