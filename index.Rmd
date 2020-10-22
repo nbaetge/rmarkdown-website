@@ -6,11 +6,14 @@ output:
     fig_width: 1
 ---
 
+<img align="right" src="images/art.png" width="300px">
+
 * <nicholasbaetge@gmail.com>
 * [google scholar](https://scholar.google.com/citations?user=Ca8wN7sAAAAJ&hl=en) 
 * [github](https://github.com/nbaetge)
 * [twitter](https://twitter.com/nbaetge91)
 * [download cv](https://github.com/nbaetge/nbaetge.github.io/raw/gh-pages/vitae.pdf)
+
 
 ----
 
