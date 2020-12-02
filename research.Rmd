@@ -44,9 +44,9 @@ In this [paper](https://doi.org/10.3389/fmars.2020.00227), we combined autonomou
 
 - Baetge, N. et al. Seasonal Regulation and Fate of Dissolved Organic Carbon Accumulation in the Northwest Atlantic. *In prep*
 
-- Bolaños, L., Choi, C.J., Worden, A., Baetge, N., Carlson, C., Giovannoni, S. Seasonality of the microbial community composition in the western North Atlantic. *In prep*
+- Bolaños, L., Choi, C.J., Worden, A., Baetge, N., Carlson, C., Giovannoni, S. Seasonality of the microbial community composition in the western North Atlantic. *In review*
 
-- Diaz, B., Knowles, B., Johns, C., Laber, C., Bondoc, K.G.V,  Harvey, E., Lowenstein, D., Fredricks, H., Hunter, J., Haramaty, L., Natale, F., Graff, J., Haentjens, N., Baetge, N., Mojica, K., Gaube, P., Boss, E., Carlson, C., Behrenfeld, M., Van Mooy, B., and Bidle, K. Physiological state, virus infection, and mixing dynamics contextualize phytoplankton accumulation and loss in the North Atlantic. *In prep*
+- Diaz, B., Knowles, B., Johns, C., Laber, C., Bondoc, K.G.V,  Harvey, E., Lowenstein, D., Fredricks, J., Haramaty, L., Natale, F., Graff, J., Haentjens, N., Westberry, T., Baetge, N., Mojica, K., Gaube, P., Boss, E., Carlson, C., Behrenfeld, M., Van Mooy, B., and Bidle, K. Seasonal mixed layer dynamics shape phytoplankton physiology, viral infection, and accumulation in the North Atlantic. *In review*
 
 - Hendrickson, B., Brooks, S., Thornton, D., Moore, R., Crosbie, E., Ziemba, L., Carlson, C., Baetge, N., Mirrielees, J., and Alsante, A. Role of Sea Surface Microlayer Properties in Cloud Formation. Frontiers in Marine Science. *In review*
 
@@ -75,7 +75,7 @@ Atlantic. Frontiers in Marine Science, 7, 227.](https://doi.org/10.3389/fmars.20
 
 <br>
 
-ACIDD was a student-led oceanographic research cruise that sought to document the daily rhythm of microbial processes in the Santa Barbara Channel (SBC). We secured ship time through the [UC Ship Funds](https://scripps.ucsd.edu/ships/uc-ship-funds-program) and over the course of a year, built a remarkable team that designed and planned achievable research objectives. When one of the California's largest recorded wildfire erupted days before our cruise, we were well prepared to respond quickly and take on a secondary objective: document and dissect the impacts of wildfire ash deposition on the marine ecosystems.
+ACIDD was a student-led oceanographic research cruise in which I was a co-PI and Chief Scientist that sought to document the daily rhythm of microbial processes in the Santa Barbara Channel (SBC). We secured ship time through the [UC Ship Funds](https://scripps.ucsd.edu/ships/uc-ship-funds-program) and over the course of a year, built a remarkable team that designed and planned achievable research objectives. When one of the California's largest recorded wildfire erupted days before our cruise, we were well prepared to respond quickly and take on a secondary objective: document and dissect the impacts of wildfire ash deposition on the marine ecosystems.
 
 <br>
 
