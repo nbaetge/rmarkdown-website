@@ -44,9 +44,9 @@ In this [paper](https://doi.org/10.3389/fmars.2020.00227), we combined autonomou
 
 - Baetge, N. et al. Seasonal Regulation and Fate of Dissolved Organic Carbon Accumulation in the Northwest Atlantic. *In prep*
 
-- Bolaños, L., Choi, C.J., Worden, A., Baetge, N., Carlson, C., Giovannoni, S. Seasonality of the microbial community composition in the western North Atlantic. *In review*
+- Bolaños, L., Choi, C.J., Worden, A., Baetge, N., Carlson, C., Giovannoni, S. Seasonality of the microbial community composition in the western North Atlantic. Frontiers in Marine Science. *In review*
 
-- Diaz, B., Knowles, B., Johns, C., Laber, C., Bondoc, K.G.V,  Harvey, E., Lowenstein, D., Fredricks, J., Haramaty, L., Natale, F., Graff, J., Haentjens, N., Westberry, T., Baetge, N., Mojica, K., Gaube, P., Boss, E., Carlson, C., Behrenfeld, M., Van Mooy, B., and Bidle, K. Seasonal mixed layer dynamics shape phytoplankton physiology, viral infection, and accumulation in the North Atlantic. *In review*
+- Diaz, B., Knowles, B., Johns, C., Laber, C., Bondoc, K.G.V,  Harvey, E., Lowenstein, D., Fredricks, J., Haramaty, L., Natale, F., Graff, J., Haentjens, N., Westberry, T., Baetge, N., Mojica, K., Gaube, P., Boss, E., Carlson, C., Behrenfeld, M., Van Mooy, B., and Bidle, K. Seasonal mixed layer dynamics shape phytoplankton physiology, viral infection, and accumulation in the North Atlantic. Nature Communications. *In review*
 
 - Hendrickson, B., Brooks, S., Thornton, D., Moore, R., Crosbie, E., Ziemba, L., Carlson, C., Baetge, N., Mirrielees, J., and Alsante, A. Role of Sea Surface Microlayer Properties in Cloud Formation. Frontiers in Marine Science. *In review*
 
