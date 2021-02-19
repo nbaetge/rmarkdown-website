@@ -26,7 +26,7 @@ The Northwest Atlantic Ocean is a region characterized by both massive seasonal 
 
 The [NAAMES](https://naames.larc.nasa.gov) program was comprised of four field campaigns in the Northwest Atlantic involving coordinated ship, aircraft, remote sensing,  autonomous *in situ* sensing efforts. It was designed to resolve the dynamics and drivers of the annual phytoplankton bloom and their subsequent impacts on the atmosphere. The framework of NAAMES represented a great opportunity for us to track and assess the temporal and spatial dynamics of dissolved organic carbon (DOC), as well as the mechanisms that control its accumulation, persistence, and export.
 
-In this [paper](https://doi.org/10.3389/fmars.2020.00227), we combined autonomous float and ship-collected data to constrain the seasonal accumulation and export potential of DOC in the study region. We currently have a manuscript in preparation in which we assess the interplay between seasonal bacterioplankton-phytoplankton carbon flux and DOC accumulation and bioavailability over the large latitudinal range occupied by NAAMES.
+In this [paper](https://doi.org/10.3389/fmars.2020.00227), we combined autonomous float and ship-collected data to constrain the seasonal accumulation and export potential of DOC in the study region. We currently have a manuscript in review in which we assess the interplay between seasonal bacterioplankton-phytoplankton carbon flux and DOC accumulation and bioavailability over the large latitudinal range occupied by NAAMES.
 
 [^2]: Behrenfeld, M. J. (2010). Abandoning sverdrup’s critical depth hypothesis on phytoplankton blooms. Ecology 91, 977–989.
 
@@ -42,14 +42,14 @@ In this [paper](https://doi.org/10.3389/fmars.2020.00227), we combined autonomou
 
 ### Manuscripts In Prep/In Review
 
-- Baetge, N. et al. Seasonal Regulation and Fate of Dissolved Organic Carbon Accumulation in the Northwest Atlantic. *In prep*
-
-- Bolaños, L., Choi, C.J., Worden, A., Baetge, N., Carlson, C., Giovannoni, S. Seasonality of the microbial community composition in the western North Atlantic. Frontiers in Marine Science. *In press*
+- Baetge, N. et al. The Seasonal Flux and Fate of Dissolved Organic Carbon through the Food Web in the Westen North Atlantic. *In review*
 
 - Diaz, B., Knowles, B., Johns, C., Laber, C., Bondoc, K.G.V,  Harvey, E., Lowenstein, D., Fredricks, J., Haramaty, L., Natale, F., Graff, J., Haentjens, N., Westberry, T., Baetge, N., Mojica, K., Gaube, P., Boss, E., Carlson, C., Behrenfeld, M., Van Mooy, B., and Bidle, K. Seasonal mixed layer dynamics shape phytoplankton physiology, viral infection, and accumulation in the North Atlantic. Nature Communications. *In review*
 
 
 ### Publications
+
+- [Bolaños, L., Choi, C.J., Worden, A., Baetge, N., Carlson, C., Giovannoni, S. Seasonality of the microbial community composition in the western North Atlantic. Frontiers in Marine Science. 8:624164.](https://doi.org/10.3389/fmars.2021.624164)
 
 - [Hendrickson, B., Brooks, S., Thornton, D., Moore, R., Crosbie, E., Ziemba, L., Carlson, C., Baetge, N., Mirrielees, J., and Alsante, A. (2020). Role of Sea Surface Microlayer Properties in Cloud Formation. Frontiers in Marine Science.7:596225.](https://doi.org/10.3389/fmars.2020.596225)
 
