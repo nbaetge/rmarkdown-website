@@ -42,7 +42,7 @@ In this [paper](https://doi.org/10.3389/fmars.2020.00227), we combined autonomou
 
 ### Manuscripts In Prep/In Review
 
-- Baetge, N. et al. The Seasonal Flux and Fate of Dissolved Organic Carbon through the Food Web in the Westen North Atlantic. Frontiers in Microbiology. *In review*
+- [Baetge, N., Behrenfeld, M., Fox, J., Halsey, K., Mojica, K., Novoa, A., Stephens, B., Carlson, C. The Seasonal Flux and Fate of Dissolved Organic Carbon through the Food Web in the Westen North Atlantic. Frontiers in Microbiology.](https://www.frontiersin.org/articles/10.3389/fmicb.2021.669883/abstract) *In press*
 
 - Diaz, B., Knowles, B., Johns, C., Laber, C., Bondoc, K.G.V,  Harvey, E., Lowenstein, D., Fredricks, J., Haramaty, L., Natale, F., Graff, J., Haentjens, N., Westberry, T., Baetge, N., Mojica, K., Gaube, P., Boss, E., Carlson, C., Behrenfeld, M., Van Mooy, B., and Bidle, K. Seasonal mixed layer dynamics shape phytoplankton physiology, viral infection, and accumulation in the North Atlantic. Nature Communications. *In review*
 
@@ -84,6 +84,11 @@ ACIDD was a student-led oceanographic research cruise in which I was a co-PI and
 <center><img src="images/biotech_fire.jpeg" width="350px"></center>
 
 <br>
+
+### Manuscripts In Prep/In Review
+
+- Wagner, S., Harvey, E., Baetge, N., McNair, H., Arrington, E., Stubbins, A. Investigating atmospheric inputs of dissolved black carbon to the Santa Barbara Channel during the Thomas Fire (California, USA).  JGR Biogeosciences. *In review*
+
 
 ### Publications
 

@@ -1,6 +1,6 @@
 ---
 title: "Nicholas Baetge"
-author:  "Marine Science PhD Candidate @ [UCSB](https://www.igpms.ucsb.edu) (he, him)"
+author:  "Marine Science PhDc @ [UCSB](https://www.igpms.ucsb.edu) (he, him)"
 output:
   html_document:
     fig_width: 1
