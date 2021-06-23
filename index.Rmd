@@ -1,6 +1,6 @@
 ---
 title: "Nicholas Baetge"
-author:  "Marine Science PhDc @ [UCSB](https://www.igpms.ucsb.edu) (he, him)"
+author:  "Postdoctoral Scholar @ Oregon State University (he, him)"
 output:
   html_document:
     fig_width: 1
@@ -35,14 +35,12 @@ M. Planck
 
 Someone who thinks on the run and runs to think. Though sometimes I run to escape thinking. I dig in and focus on the task at hand. I focus on trying to run faster, harder, smarter, and better. But I try to respect my limits because I'm only human. I also try to remember to have fun; else, what's the point? 
 
-This running mentality transcends to other aspects of me, increasingly the part of me that is a scientist. Not being shy to new challenges and  wanting to have fun, but also having an amazing support network and some luck have all helped get me to where I am today: in the pursuit of a doctoral degree in the marine sciences **(expected 2021)**.
+This running mentality transcends to other aspects of me, increasingly the part of me that is a scientist. Not being shy to new challenges and  wanting to have fun, but also having an amazing support network and some luck have all helped get me to where I am today.
 
-I've been learning from and working with [Dr. Craig Carlson and his lab](https://labs.eemb.ucsb.edu/carlson/craig/), exploring the incessently fascinating world of marine microbes (read as: bacteria) and how they shape (and are shaped by) ocean biogeochemistry (read as: carbon cycling). I basically like to think about: 
+During my time as a graduate student, I learned from and worked with [Dr. Craig Carlson and his lab](https://labs.eemb.ucsb.edu/carlson/craig/), exploring the incessently fascinating world of marine microbes (read as: bacteria) and how they shape (and are shaped by) ocean biogeochemistry (read as: carbon cycling). 
 
-- why microbes are so good at recycling and what happens when they're not
-- whether they're initrinsically competitive or collaborative with one another
-- how the carbon that microbes use (or don't) moves around the oceans
-- how changes in microbially-mediated carbon flux might shift the way food webs and Earth's climate functions
+I am beginning a postdoctoral scholarship with [Dr. Michael Behrenfeld](https://bpp.oregonstate.edu/users/michael-behrenfeld) and [Dr. Kim Halsey](http://kim.halsey.co), in which I will be working to tease apart the diel optical signatures associated with phytoplankton from those of vertical migrating zooplankton. 
+
 
 Poke around to learn more about my research and **please, don't hesitate to contact me!** 
 

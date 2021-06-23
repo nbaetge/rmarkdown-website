@@ -2,7 +2,7 @@ name: "Nicholas Baetge"
 navbar:
   title: "Home"
   left:
-    - text: "Research"
+    - text: "PhD Research"
       href: research.html
     - text: "Outreach"
       href: outreach.html
