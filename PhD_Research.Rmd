@@ -42,14 +42,14 @@ In this [paper](https://doi.org/10.3389/fmars.2020.00227), we combined autonomou
 
 ### Manuscripts In Prep/In Review
 
-- [Baetge, N., Behrenfeld, M., Fox, J., Halsey, K., Mojica, K., Novoa, A., Stephens, B., Carlson, C. The Seasonal Flux and Fate of Dissolved Organic Carbon through the Food Web in the Westen North Atlantic. Frontiers in Microbiology.](https://www.frontiersin.org/articles/10.3389/fmicb.2021.669883/abstract) *In press*
-
-- Diaz, B., Knowles, B., Johns, C., Laber, C., Bondoc, K.G.V,  Harvey, E., Lowenstein, D., Fredricks, J., Haramaty, L., Natale, F., Graff, J., Haentjens, N., Westberry, T., Baetge, N., Mojica, K., Gaube, P., Boss, E., Carlson, C., Behrenfeld, M., Van Mooy, B., and Bidle, K. Seasonal mixed layer dynamics shape phytoplankton physiology, viral infection, and accumulation in the North Atlantic. Nature Communications. *In review*
+- Diaz, B., Knowles, B., Johns, C., Laber, C., Bondoc, K.G.V,  Harvey, E., Lowenstein, D., Fredricks, J., Haramaty, L., Natale, F., Graff, J., Haentjens, N., Westberry, T., Baetge, N., Mojica, K., Gaube, P., Boss, E., Carlson, C., Behrenfeld, M., Van Mooy, B., and Bidle, K. Seasonal mixed layer dynamics shape phytoplankton physiology, viral infection, and accumulation in the North Atlantic. Nature Communications. *In revision*
 
 
 ### Publications
 
-- [Bolaños, L., Choi, C.J., Worden, A., Baetge, N., Carlson, C., Giovannoni, S. Seasonality of the microbial community composition in the western North Atlantic. Frontiers in Marine Science. 8:624164.](https://doi.org/10.3389/fmars.2021.624164)
+- [Baetge, N., Behrenfeld, M., Fox, J., Halsey, K., Mojica, K., Novoa, A., Stephens, B., Carlson, C. The Seasonal Flux and Fate of Dissolved Organic Carbon through the Food Web in the Westen North Atlantic. (2021). Frontiers in Microbiology.](https://www.frontiersin.org/articles/10.3389/fmicb.2021.669883/abstract)
+
+- [Bolaños, L., Choi, C.J., Worden, A., Baetge, N., Carlson, C., Giovannoni, S. Seasonality of the microbial community composition in the western North Atlantic. (2021). Frontiers in Marine Science. 8:624164.](https://doi.org/10.3389/fmars.2021.624164)
 
 - [Hendrickson, B., Brooks, S., Thornton, D., Moore, R., Crosbie, E., Ziemba, L., Carlson, C., Baetge, N., Mirrielees, J., and Alsante, A. (2020). Role of Sea Surface Microlayer Properties in Cloud Formation. Frontiers in Marine Science.7:596225.](https://doi.org/10.3389/fmars.2020.596225)
 
@@ -87,7 +87,7 @@ ACIDD was a student-led oceanographic research cruise in which I was a co-PI and
 
 ### Manuscripts In Prep/In Review
 
-- Wagner, S., Harvey, E., Baetge, N., McNair, H., Arrington, E., Stubbins, A. Investigating atmospheric inputs of dissolved black carbon to the Santa Barbara Channel during the Thomas Fire (California, USA).  JGR Biogeosciences. *In review*
+- Wagner, S., Harvey, E., Baetge, N., McNair, H., Arrington, E., Stubbins, A. Investigating atmospheric inputs of dissolved black carbon to the Santa Barbara Channel during the Thomas Fire (California, USA).  JGR Biogeosciences. *In revision*
 
 
 ### Publications
