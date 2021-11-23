@@ -26,7 +26,7 @@ The Northwest Atlantic Ocean is a region characterized by both massive seasonal 
 
 The [NAAMES](https://naames.larc.nasa.gov) program was comprised of four field campaigns in the Northwest Atlantic involving coordinated ship, aircraft, remote sensing,  autonomous *in situ* sensing efforts. It was designed to resolve the dynamics and drivers of the annual phytoplankton bloom and their subsequent impacts on the atmosphere. The framework of NAAMES represented a great opportunity for us to track and assess the temporal and spatial dynamics of dissolved organic carbon (DOC), as well as the mechanisms that control its accumulation, persistence, and export.
 
-In this [paper](https://doi.org/10.3389/fmars.2020.00227), we combined autonomous float and ship-collected data to constrain the seasonal accumulation and export potential of DOC in the study region. We currently have a manuscript in review in which we assess the interplay between seasonal bacterioplankton-phytoplankton carbon flux and DOC accumulation and bioavailability over the large latitudinal range occupied by NAAMES.
+In this [paper](https://doi.org/10.3389/fmars.2020.00227), we combined autonomous float and ship-collected data to constrain the seasonal accumulation and export potential of DOC in the study region. In a follow up [paper](https://www.frontiersin.org/articles/10.3389/fmicb.2021.669883/abstract), we assess the interplay between seasonal bacterioplankton-phytoplankton carbon flux and DOC accumulation and bioavailability over the large latitudinal range occupied by NAAMES. We currently have a paper in revision that focuses on a rare opportunity during the May 2016 cruise where we document the epi- and meso-pelagic bacterioplankton response to the organic matter redistributed by deep mixing.  
 
 [^2]: Behrenfeld, M. J. (2010). Abandoning sverdrup’s critical depth hypothesis on phytoplankton blooms. Ecology 91, 977–989.
 
@@ -42,11 +42,11 @@ In this [paper](https://doi.org/10.3389/fmars.2020.00227), we combined autonomou
 
 ### Manuscripts In Prep/In Review
 
-- Diaz, B., Knowles, B., Johns, C., Laber, C., Bondoc, K.G.V,  Harvey, E., Lowenstein, D., Fredricks, J., Haramaty, L., Natale, F., Graff, J., Haentjens, N., Westberry, T., Baetge, N., Mojica, K., Gaube, P., Boss, E., Carlson, C., Behrenfeld, M., Van Mooy, B., Bidle, K. Seasonal mixed layer dynamics shape phytoplankton physiology, viral infection, and accumulation in the North Atlantic. Nature Communications. *in press*
-
-- Baetge, N., Bolaños, L., Della Penna, A., Gaube, P., Liu, S., Opalk, K., Graff, J., Giovannoni, S., Behrenfeld, M., Carlson, C. Bacterioplankton Response to Physical Stratification following Deep Convection. Elementa. *in review*
+- Baetge, N., Bolaños, L., Della Penna, A., Gaube, P., Liu, S., Opalk, K., Graff, J., Giovannoni, S., Behrenfeld, M., Carlson, C. Bacterioplankton Response to Physical Stratification following Deep Convection. Elementa. *in revision*
 
 ### Publications
+
+- [Diaz, B., Knowles, B., Johns, C., Laber, C., Bondoc, K.G.V,  Harvey, E., Lowenstein, D., Fredricks, J., Haramaty, L., Natale, F., Graff, J., Haentjens, N., Westberry, T., Baetge, N., Mojica, K., Gaube, P., Boss, E., Carlson, C., Behrenfeld, M., Van Mooy, B., Bidle, K. (2021). Seasonal mixed layer dynamics shape phytoplankton physiology, viral infection, and accumulation in the North Atlantic. Nature Communications.](https://www.nature.com/articles/s41467-021-26836-1) 
 
 - [Baetge, N., Behrenfeld, M., Fox, J., Halsey, K., Mojica, K., Novoa, A., Stephens, B., Carlson, C. The Seasonal Flux and Fate of Dissolved Organic Carbon through the Food Web in the Westen North Atlantic. (2021). Frontiers in Microbiology.](https://www.frontiersin.org/articles/10.3389/fmicb.2021.669883/abstract)
 
@@ -142,4 +142,4 @@ Established in 2015, [BIOS-SCOPE](http://scope.bios.edu) is an ongoing research 
 
 ## <span style="color: #002A5E;">**Other Manuscripts**</span>
 
-- Comstock, J., Nelson, C., James, A., Wear, E., Baetge, N., Juknavorian, A., Carlson, C. Bacterioplankton communities reveal horizontal and vertical influence of an Island Mass Effect. Nature Communications. *submitted*
+- Comstock, J., Nelson, C., James, A., Wear, E., Baetge, N., Juknavorian, A., Carlson, C. Bacterioplankton communities reveal horizontal and vertical influence of an Island Mass Effect. Environmental Microbiology. *in revision*
