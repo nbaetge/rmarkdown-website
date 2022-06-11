@@ -22,7 +22,7 @@ body{
 
 <br>
 
-The oceans teem with marine microbes that move at the mercy of currents. All of these viruses, bacteria, and eukaryotic protists (e.g., phytoplankton) are invisible to the naked eye, but have huge impacts on how food webs function and how elements are cycled throughout the planet!. My research is dedicated to studying these amazing lifeforms and the processes they influence
+The oceans teem with marine microbes that move at the mercy of currents. All of these microbes are invisible to the naked eye, but have huge impacts on how food webs function and how elements are cycled throughout the planet! My research is dedicated to studying these amazing lifeforms and the processes they influence.
 
 Below are themes that contextualize the research projects I am currently or have been involved with.
 
@@ -32,11 +32,11 @@ Below are themes that contextualize the research projects I am currently or have
 
 <br>
 
-Separating phytoplankton and migrating animal elements of day-night differences in particulate backscattering
+## Separating Phytoplankton from Zooplankton Backscatter
 
-*this section is under construction*
-
-
+ <center><img src="images/phyto-bbp.png" width="1000px"></center> 
+ 
+The daily vertical migration of zooplankton in the global oceans represents an important pathway by which carbon is shuttled from the sunlit surface to the deep dark ocean. While these vertical migrations can be detected in satellite retrievals of optical properties, specifically backscatter or backward scattered light, their signal can be obscured by the diel behaviors of phytoplankton. We are currently working on a NASA-funded project to tease apart the diel optical signatures associated with phytoplankton from those of vertical migrating zooplankton. To do so, we are evaluating changes in the optical properties and cell physiology of multiple ecologically-relevant phytoplankton species across a range of photoperiods and growth rates. 
 
 ----
 
@@ -44,27 +44,30 @@ Separating phytoplankton and migrating animal elements of day-night differences 
 
 <br>
 
-## North Atlantic Aerosols and Marine Ecosystems Study (NAAMES)
+## North Atlantic Aerosols and Marine Ecosystems Study
 
- <left><img src="images/atlantis.jpeg" width="200px"></left>\ \ \ \ \ \ \ \ \ <left><img src="images/NAAMESlogo.png" width="200px">\ \ \ \ \ \ \ \ \ </left> <left><img src="images/storm.jpeg" width="220px"></left> 
+ <center><img src="images/naames.png" width="1000px"></center> 
 
 The Northwest Atlantic Ocean is a region characterized by both massive seasonal phytoplankton blooms and deep convective overturning events that can physically deliver organic carbon produced by phytoplankton to depth, where it can be sequestered on the timescales of ocean circulaiton. The region is consequently important in regulating the flux of atmospheric CO~2~ into the ocean.  
 
 The NASA-funded [NAAMES](https://naames.larc.nasa.gov) program was comprised of four field campaigns in the Northwest Atlantic involving coordinated ship, aircraft, remote sensing,  autonomous *in situ* sensing efforts. It was designed to resolve the dynamics and drivers of the annual phytoplankton bloom and their subsequent impacts on the atmosphere. The framework of NAAMES represented a great opportunity for us to track and assess the temporal and spatial dynamics of dissolved organic carbon (DOC), as well as the mechanisms that control its accumulation, persistence, and export. This work funded by the National Science Foundation, served as the focus of my dissertation, which is publicly available [here](https://www.proquest.com/docview/2596621124?pq-origsite=gscholar&fromopenview=true).
 
 In this [paper](https://doi.org/10.3389/fmars.2020.00227), we combined autonomous float and ship-collected data to constrain the seasonal accumulation and export potential of DOC in the study region. In a follow up [paper](https://www.frontiersin.org/articles/10.3389/fmicb.2021.669883/abstract), we assess the interplay between seasonal bacterioplankton-phytoplankton carbon flux and DOC accumulation and bioavailability over the large latitudinal range occupied by NAAMES. We currently have a paper in revision that focuses on a rare opportunity during the May 2016 cruise where we document the epi- and meso-pelagic bacterioplankton response to the organic matter redistributed by deep mixing.  
-
 <br>
 
 ### Media
 
-Dr. Carlson and I participated in an initiative led by [Dr. Alyson Santoro](https://labs.eemb.ucsb.edu/santoro/alyson/) and the Smithsonian to develop content for the [Smithsonian Ocean Portal](https://ocean.si.edu/ocean-life/microbes
-). Check out the short film by filmaker [Brendan Byrne](https://vimeo.com/brendansbyrne) that describes our work:
+We wrote notes from the field, published on [NASA’s Earth Observatory Blogs](https://earthobservatory.nasa.gov/blogs/fromthefield/category/naames/).
+
+[Dr. James Allen](https://scholar.google.com/citations?user=XRYCd48AAAAJ&hl=en&oi=sra) and I were interviewed about the project on the podcast, [*Sisters of the Blue*](https://podcast.app/plankton-from-outer-space-e25700142/).
+
+Dr. Carlson and I participated in an [Smithsonian initiative](https://ocean.si.edu/ocean-life/microbes
+) led by [Dr. Alyson Santoro](https://santorolab.eemb.ucsb.edu), from which a short film by filmaker [Brendan Byrne](https://vimeo.com/brendansbyrne) was made:
 
 <center><iframe src="https://player.vimeo.com/video/333852210?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/333852210">Marine Microbes Pt. I - Microbial World</a> from <a href="https://vimeo.com/brendansbyrne">Brendan Byrne</a> on <a href="https://vimeo.com">Vimeo</a>.</p></center>
 
-It was awesome sailing with [Nicole Estaphan](https://www.ksbw.com/news-team/a0dbf6cc-afdb-4b7f-bb98-7f50aab6249a), a journalist for WCVB-TV ABC Boston who put together four great videos about NAAMES. Check them out below:
+[Nicole Estaphan](https://www.ksbw.com/news-team/a0dbf6cc-afdb-4b7f-bb98-7f50aab6249a), a journalist for WCVB-TV ABC Boston sailed with us on NAAMES and put together a story for the project:
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/Fp3bNkXzbLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
@@ -76,16 +79,13 @@ It was awesome sailing with [Nicole Estaphan](https://www.ksbw.com/news-team/a0d
 
 <br>
 
-Dr. Carlson and I contributed to the NASA’s Earth Observatory Blogs during each cruise we participated on. Check them out [here](https://earthobservatory.nasa.gov/blogs/fromthefield/category/naames/).
+## BIOS-SCOPE
 
-[Dr. James Allen](https://scholar.google.com/citations?user=XRYCd48AAAAJ&hl=en&oi=sra) and I were interviewed on the podcast, *Sisters of the Blue*, which you can listen to [here](https://podcast.app/plankton-from-outer-space-e25700142/).
+<center><img src="images/biosscope.png" width="1000px"></center>
 
 <br>
 
-## BIOS-SCOPE
-<left><img src="images/bermuda.jpg" width="190px"></left> <left><img src="images/BiosScope-emblem.jpeg" width="250px"></left> <left><img src="images/ae.jpg" width="220px"></left>
-
-Established in 2015, [BIOS-SCOPE](http://scope.bios.edu) is an ongoing research program focused on fieldwork in the vicinity of the Bermuda Atlantic Time-series Study ([BATS](http://bats.bios.edu)) site, one of the few locations in the global ocean with a long history of measurements. The program combines a wide array genomic, ecological, and oceanographic approaches to assess how microbes interact with each other and with chemical compounds to shape biogeochemical patterns. Much of my involvement with the program has been in support of the research by [Dr. Shuting Liu](https://scholar.google.com/citations?hl=en&user=e7KjxtMAAAAJ&view_op=list_works&sortby=pubdate), currently a postdoctoral scholar in Dr. Carlson's group. 
+Established in 2015 and funded by the Simons Foundation International, [BIOS-SCOPE](http://scope.bios.edu) is an ongoing research program focused on fieldwork in the vicinity of the Bermuda Atlantic Time-series Study ([BATS](http://bats.bios.edu)) site, one of the few locations in the global ocean with a long history of measurements. The program combines a wide array genomic, ecological, and oceanographic approaches to assess how microbes interact with each other and with chemical compounds to shape biogeochemical patterns. Much of my involvement with the program has been in support of the research by [Dr. Shuting Liu](https://scholar.google.com/citations?hl=en&user=e7KjxtMAAAAJ&view_op=list_works&sortby=pubdate), currently a postdoctoral scholar in Dr. Carlson's group. 
 
 <br>
 
@@ -95,9 +95,9 @@ Established in 2015, [BIOS-SCOPE](http://scope.bios.edu) is an ongoing research 
 
 <br>
 
-## Across the Channel Investigating Diel Dynamics (ACIDD)
+## Across the Channel Investigating Diel Dynamics
 
-<left><img src="images/biotech_fire.jpeg" width="220px">\ \ \ \ \ \ \ \ </left><left><img src="images/aciddlogo.jpg" width="180px"></left>\ \ \ \ \ \ \ \ <left><img src="images/ash_atm.jpg" width="220px"></left>  
+<center><img src="images/acidd.png" width="1000px"></center>
 
 <br>
 

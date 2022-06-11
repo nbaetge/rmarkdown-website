@@ -20,7 +20,7 @@ body, h1, h2, h3, h4 {
 
 <br>
 
-<font size="3"> As a laboratory technician and then doctoral student in the [Carlson lab](https://labs.eemb.ucsb.edu/carlson/craig/) at the University of California, Santa Barbara , I gained expertise in the recycling of dissolved organic carbon (DOC) by bacterioplankton. 
+<font size="3"> As a laboratory technician and then doctoral student in the [Carlson lab](https://labs.eemb.ucsb.edu/carlson/craig/) at the University of California, Santa Barbara, I gained expertise in the recycling of dissolved organic carbon (DOC) by bacterioplankton. 
 
 I am now working as a postdoctoral scholar in the [Halsey](http://kim.halsey.co) and [Behrenfeld](https://sites.science.oregonstate.edu/ocean.productivity/) labs at Oregon State University. My current research goals are to: 
 
