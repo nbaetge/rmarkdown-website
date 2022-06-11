@@ -12,15 +12,15 @@ body, h1, h2, h3, h4 {
 }
 </style>
 
- <font size="5"> I am an oceanographer who studies microorganisms in the ocean to understand their roles in cycling carbon and energy through ecosystems. </font>
+ <font size="5"> I am a scientist who studies microorganisms to understand their role in cycling carbon and energy through ocean ecosystems. </font>
  
- <font size="2"> To do my work, I conduct cultivation-dependent experiments in the lab, collect water samples from research cruises, and use autonomously-collected data like those from floats and satellites. </font>
+ <font size="3"> To do my work, I conduct cultivation-dependent experiments in the lab, collect water samples from research cruises, and use autonomously-collected data like those from floats and satellites. </font>
 
 <center><img src="images/me2.png" width="1000px"></center>  
 
 <br>
 
-<font size="2"> As a laboratory technician and then doctoral student in the [Carlson lab](https://labs.eemb.ucsb.edu/carlson/craig/) at the University of California, Santa Barbara , I gained expertise in the recycling of dissolved organic carbon (DOC) by bacterioplankton. 
+<font size="3"> As a laboratory technician and then doctoral student in the [Carlson lab](https://labs.eemb.ucsb.edu/carlson/craig/) at the University of California, Santa Barbara , I gained expertise in the recycling of dissolved organic carbon (DOC) by bacterioplankton. 
 
 I am now working as a postdoctoral scholar in the [Halsey](http://kim.halsey.co) and [Behrenfeld](https://sites.science.oregonstate.edu/ocean.productivity/) labs at Oregon State University. My current research goals are to: 
 
