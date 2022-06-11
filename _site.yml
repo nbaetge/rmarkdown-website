@@ -2,10 +2,12 @@ name: "Nicholas Baetge"
 navbar:
   title: "Home"
   left:
-    - text: "PhD Research"
-      href: PhD_Research.html
-    - text: "Outreach"
-      href: outreach.html
+    - text: "Projects"
+      href: Projects.html
+    - text: "Publications & CV"
+      href: Pubs.html
+    - text: "Contact"
+      href: Contact.html
 output_dir: "."
 output:
   html_document:

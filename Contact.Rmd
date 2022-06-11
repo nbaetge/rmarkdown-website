@@ -1,0 +1,23 @@
+---
+title: ""
+---
+
+<style>
+body, h1, h2, h3, h4 {
+    font-family: "Avenir", sans_serif;
+}
+</style>
+
+<br>
+
+<font size = "4">Please reach out to me if you'd like to chat about my work and/or discuss ideas and potential collaborations! I'm always happy to listen, learn, and discuss!
+
+Email : <nicholasbaetge@gmail.com>
+
+Office : +1 five four one 737-8891
+
+Twitter : [nbaetge91](https://twitter.com/nbaetge91) </font>
+
+<center><img align="center" src="images/art.png" width="300px"></center>
+
+----

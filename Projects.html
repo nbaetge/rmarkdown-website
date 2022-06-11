@@ -1,0 +1,640 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Projects.knit</title>
+
+<script src="site_libs/header-attrs-2.13/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Home</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="Projects.html">Projects</a>
+</li>
+<li>
+  <a href="Pubs.html">Publications &amp; CV</a>
+</li>
+<li>
+  <a href="Contact.html">Contact</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+
+</div>
+
+
+<style>
+body, h1, h2, h3, h4 {
+    font-family: "Avenir", sans_serif;
+}
+
+h1, h3, h4 {
+  text-align: center;
+}
+</style>
+<p><br></p>
+<p>The oceans teem with marine microbes that move at the mercy of
+currents. All of these viruses, bacteria, and eukaryotic protists (e.g.,
+phytoplankton) are invisible to the naked eye, but have huge impacts on
+how food webs function and how elements are cycled throughout the
+planet!. My research is dedicated to studying these amazing lifeforms
+and the processes they influence</p>
+<p>Below are themes that contextualize the research projects I am
+currently or have been involved with.</p>
+<hr />
+<div id="optical-oceanography" class="section level1">
+<h1><span style="color: #002A5E;"><strong>Optical
+Oceanography</strong></span></h1>
+<p><br></p>
+<p>Separating phytoplankton and migrating animal elements of day-night
+differences in particulate backscattering</p>
+<p><em>this section is under construction</em></p>
+<hr />
+</div>
+<div id="open-ocean-ecology-and-biogeochemistry" class="section level1">
+<h1><span style="color: #002A5E;"><strong>Open Ocean Ecology and
+Biogeochemistry</strong></span></h1>
+<p><br></p>
+<div id="north-atlantic-aerosols-and-marine-ecosystems-study-naames"
+class="section level2">
+<h2>North Atlantic Aerosols and Marine Ecosystems Study (NAAMES)</h2>
+<p><left><img src="images/atlantis.jpeg" width="200px"></left>         <left><img src="images/NAAMESlogo.png" width="200px">         </left>
+<left><img src="images/storm.jpeg" width="220px"></left></p>
+<p>The Northwest Atlantic Ocean is a region characterized by both
+massive seasonal phytoplankton blooms and deep convective overturning
+events that can physically deliver organic carbon produced by
+phytoplankton to depth, where it can be sequestered on the timescales of
+ocean circulaiton. The region is consequently important in regulating
+the flux of atmospheric CO<sub>2</sub> into the ocean.</p>
+<p>The NASA-funded <a href="https://naames.larc.nasa.gov">NAAMES</a>
+program was comprised of four field campaigns in the Northwest Atlantic
+involving coordinated ship, aircraft, remote sensing, autonomous <em>in
+situ</em> sensing efforts. It was designed to resolve the dynamics and
+drivers of the annual phytoplankton bloom and their subsequent impacts
+on the atmosphere. The framework of NAAMES represented a great
+opportunity for us to track and assess the temporal and spatial dynamics
+of dissolved organic carbon (DOC), as well as the mechanisms that
+control its accumulation, persistence, and export. This work funded by
+the National Science Foundation, served as the focus of my dissertation,
+which is publicly available <a
+href="https://www.proquest.com/docview/2596621124?pq-origsite=gscholar&amp;fromopenview=true">here</a>.</p>
+<p>In this <a href="https://doi.org/10.3389/fmars.2020.00227">paper</a>,
+we combined autonomous float and ship-collected data to constrain the
+seasonal accumulation and export potential of DOC in the study region.
+In a follow up <a
+href="https://www.frontiersin.org/articles/10.3389/fmicb.2021.669883/abstract">paper</a>,
+we assess the interplay between seasonal bacterioplankton-phytoplankton
+carbon flux and DOC accumulation and bioavailability over the large
+latitudinal range occupied by NAAMES. We currently have a paper in
+revision that focuses on a rare opportunity during the May 2016 cruise
+where we document the epi- and meso-pelagic bacterioplankton response to
+the organic matter redistributed by deep mixing.</p>
+<p><br></p>
+<div id="media" class="section level3">
+<h3>Media</h3>
+<p>Dr. Carlson and I participated in an initiative led by <a
+href="https://labs.eemb.ucsb.edu/santoro/alyson/">Dr. Alyson Santoro</a>
+and the Smithsonian to develop content for the <a
+href="https://ocean.si.edu/ocean-life/microbes">Smithsonian Ocean
+Portal</a>. Check out the short film by filmaker <a
+href="https://vimeo.com/brendansbyrne">Brendan Byrne</a> that describes
+our work:</p>
+<center>
+<iframe src="https://player.vimeo.com/video/333852210?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen>
+</iframe>
+<p>
+<a href="https://vimeo.com/333852210">Marine Microbes Pt. I - Microbial
+World</a> from <a href="https://vimeo.com/brendansbyrne">Brendan
+Byrne</a> on <a href="https://vimeo.com">Vimeo</a>.
+</p>
+</center>
+<p>It was awesome sailing with <a
+href="https://www.ksbw.com/news-team/a0dbf6cc-afdb-4b7f-bb98-7f50aab6249a">Nicole
+Estaphan</a>, a journalist for WCVB-TV ABC Boston who put together four
+great videos about NAAMES. Check them out below:</p>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fp3bNkXzbLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</center>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YKbHJHfChSw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</center>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gUUoa9JgujE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</center>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O5QAg8L_xNM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</center>
+<p><br></p>
+<p>Dr. Carlson and I contributed to the NASA’s Earth Observatory Blogs
+during each cruise we participated on. Check them out <a
+href="https://earthobservatory.nasa.gov/blogs/fromthefield/category/naames/">here</a>.</p>
+<p><a
+href="https://scholar.google.com/citations?user=XRYCd48AAAAJ&amp;hl=en&amp;oi=sra">Dr. James
+Allen</a> and I were interviewed on the podcast, <em>Sisters of the
+Blue</em>, which you can listen to <a
+href="https://podcast.app/plankton-from-outer-space-e25700142/">here</a>.</p>
+<p><br></p>
+</div>
+</div>
+<div id="bios-scope" class="section level2">
+<h2>BIOS-SCOPE</h2>
+<p><left><img src="images/bermuda.jpg" width="190px"></left>
+<left><img src="images/BiosScope-emblem.jpeg" width="250px"></left>
+<left><img src="images/ae.JPG" width="220px"></left></p>
+<p>Established in 2015, <a href="http://scope.bios.edu">BIOS-SCOPE</a>
+is an ongoing research program focused on fieldwork in the vicinity of
+the Bermuda Atlantic Time-series Study (<a
+href="http://bats.bios.edu">BATS</a>) site, one of the few locations in
+the global ocean with a long history of measurements. The program
+combines a wide array genomic, ecological, and oceanographic approaches
+to assess how microbes interact with each other and with chemical
+compounds to shape biogeochemical patterns. Much of my involvement with
+the program has been in support of the research by <a
+href="https://scholar.google.com/citations?hl=en&amp;user=e7KjxtMAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Dr. Shuting
+Liu</a>, currently a postdoctoral scholar in Dr. Carlson’s group.</p>
+<p><br></p>
+<hr />
+</div>
+</div>
+<div id="microbial-responses-to-environmental-perturbations"
+class="section level1">
+<h1><span style="color: #002A5E;"><strong>Microbial Responses to
+Environmental Perturbations</strong></span></h1>
+<p><br></p>
+<div id="across-the-channel-investigating-diel-dynamics-acidd"
+class="section level2">
+<h2>Across the Channel Investigating Diel Dynamics (ACIDD)</h2>
+<p><left><img src="images/biotech_fire.jpeg" width="220px">        </left><left><img src="images/aciddlogo.jpg" width="180px"></left>        <left><img src="images/ash_atm.JPG" width="220px"></left></p>
+<p><br></p>
+<p>ACIDD was a student-led oceanographic research cruise in which I was
+a co-PI and Chief Scientist that sought to document the daily rhythm of
+microbial processes in the Santa Barbara Channel (SBC). We secured ship
+time through the <a
+href="https://scripps.ucsd.edu/ships/uc-ship-funds-program">UC Ship
+Funds</a> and over the course of a year, built a remarkable team that
+designed and planned achievable research objectives. When one of the
+California’s largest recorded wildfire erupted days before our cruise,
+we were well prepared to respond quickly and take on a secondary
+objective: document and dissect the impacts of wildfire ash deposition
+on the marine ecosystems.</p>
+<div id="media-1" class="section level3">
+<h3>Media</h3>
+<p><a
+href="https://scholar.google.com/citations?user=8FrNCE0AAAAJ&amp;hl=en">Dr. Kelsey
+Bisson</a> led a project funded by the <a
+href="http://www.nasonline.org/programs/keck-futures-initiative/">National
+Academies Keck Futures Initiative</a> that wove together the strengths
+of art and science. She put together a team of four artists, <a
+href="http://www.celiaj.com">Celia Jacobs</a>, <a
+href="http://lvl3official.com/walter-etc/">Dustin Hayes</a>, and <a
+href="https://gadgirling.myportfolio.com/projects">Gad Girling</a>, who
+worked to bring oceanography to the public eye through their mediums of
+art, music, photography, writing, and film.</p>
+<ul>
+<li>See the magazine they produced <a
+href="https://issuu.com/migrationsmag/docs/finalmigrationszinepages">here</a>.</li>
+<li>Watch the video they produced below, which was featured at the 2019
+<a href="https://dceff.org/film/aquatic-cathartic/">Environmental Film
+Festival</a> in Washington, D.C.</li>
+</ul>
+<center>
+<iframe src="https://player.vimeo.com/video/281882446" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen>
+</iframe>
+<p>
+<a href="https://vimeo.com/281882446">Aquatic Cathartic</a> from
+<a href="https://vimeo.com/projectacidd">Project ACIDD</a> on
+<a href="https://vimeo.com">Vimeo</a>.
+</p>
+</center>
+<p><br></p>
+</div>
+<div id="press" class="section level3">
+<h3>Press</h3>
+<ul>
+<li><a href="https://tos.org/pdfs/ocean_news_15.pdf">The Oceanography
+Society, 10/18</a></li>
+<li><a
+href="https://www.independent.com/2018/02/12/thomas-fire-ash-sampled-santa-barbara-channel/">Santa
+Barbara Independent, 2/18</a></li>
+<li><a
+href="https://www.popsci.com/how-wildfire-impacts-ocean/?con=TrueAnthem&amp;dom=fb&amp;lnk=TA&amp;src=SOC&amp;utm_campaign&amp;utm_content=5a3415d704d30137c1128bfb&amp;utm_medium&amp;utm_source">Popular
+Science, 12/17</a></li>
+<li><a
+href="https://scripps.ucsd.edu/news/field-night-shift-santa-barbara-channel">Scripps
+News, 12/17</a></li>
+<li><a
+href="https://www.dailybreeze.com/2017/12/26/are-southern-california-wildfires-a-threat-to-local-marine-life-a-new-study-aims-to-find-out/">Daily
+Breeze, 12/17</a></li>
+<li><a href="https://www.news.ucsb.edu/2017/018029/tuning-channel">UC
+Santa Barbara The Current, 6/17</a></li>
+</ul>
+<hr />
+</div>
+</div>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

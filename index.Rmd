@@ -1,55 +1,33 @@
 ---
-title: "Nicholas Baetge"
-author:  "Postdoctoral Scholar @ Oregon State University (he, him)"
+title: "Nick Baetge, PhD"
+author:  
 output:
   html_document:
     fig_width: 1
 ---
 
-<img align="right" src="images/art.png" width="300px">
+<style>
+body, h1, h2, h3, h4 {
+    font-family: "Avenir", sans_serif;
+}
+</style>
 
-* <nicholasbaetge@gmail.com>
-* [google scholar](https://scholar.google.com/citations?user=Ca8wN7sAAAAJ&hl=en) 
-* [github](https://github.com/nbaetge)
-* [twitter](https://twitter.com/nbaetge91)
-* [download cv](https://github.com/nbaetge/nbaetge.github.io/raw/gh-pages/vitae.pdf)
+ <font size="5"> I am an oceanographer who studies microorganisms in the ocean to understand their roles in cycling carbon and energy through ecosystems. </font>
+ 
+ <font size="2"> To do my work, I conduct cultivation-dependent experiments in the lab, collect water samples from research cruises, and use autonomously-collected data like those from floats and satellites. </font>
 
-
-----
-
-**When you change the way you look at things, the things you look at change**
-
-M. Planck
-
-
-----
-
-
-# <span style="color: #002A5E;">**Who in the world am I?**</span>
+<center><img src="images/me2.png" width="1000px"></center>  
 
 <br>
 
-<center><img src="images/me.png" width="750px"></center>  
+<font size="2"> As a laboratory technician and then doctoral student in the [Carlson lab](https://labs.eemb.ucsb.edu/carlson/craig/) at the University of California, Santa Barbara , I gained expertise in the recycling of dissolved organic carbon (DOC) by bacterioplankton. 
 
-<br>
+I am now working as a postdoctoral scholar in the [Halsey](http://kim.halsey.co) and [Behrenfeld](https://sites.science.oregonstate.edu/ocean.productivity/) labs at Oregon State University. My current research goals are to: 
 
-Someone who thinks on the run and runs to think. Though sometimes I run to escape thinking. I dig in and focus on the task at hand. I focus on trying to run faster, harder, smarter, and better. But I try to respect my limits because I'm only human. I also try to remember to have fun; else, what's the point? 
-
-This running mentality transcends to other aspects of me, increasingly the part of me that is a scientist. Not being shy to new challenges and  wanting to have fun, but also having an amazing support network and some luck have all helped get me to where I am today.
-
-During my time as a graduate student, I learned from and worked with [Dr. Craig Carlson and his lab](https://labs.eemb.ucsb.edu/carlson/craig/), exploring the incessently fascinating world of marine microbes (read as: bacteria) and how they shape (and are shaped by) ocean biogeochemistry (read as: carbon cycling). 
-
-I am currently a postdoctoral scholar with [Dr. Michael Behrenfeld](https://bpp.oregonstate.edu/users/michael-behrenfeld) and [Dr. Kim Halsey](http://kim.halsey.co), with whom I will work to tease apart the diel optical signatures associated with phytoplankton from those of vertical migrating zooplankton. 
-
-
-Poke around to learn more about my research and **please, don't hesitate to contact me!** 
-
+1. assess how the optical properties and cell physiology of phytoplankton change over the day-night cycle for a variety of cultured species.
+2. investigate how day-night variability in the optical properties of phytoplankton impacts interpretations of satellite remote sensing data. </font>
 
 ----
 
 ###### This website was last updated `r format(Sys.Date(), '%B %d, %Y')`
-
-
-
-
 

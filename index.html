@@ -9,27 +9,41 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
-<meta name="author" content="Postdoctoral Scholar @ Oregon State University (he, him)" />
+<meta name="author" content="" />
 
 
-<title>Nicholas Baetge</title>
+<title>Nick Baetge, PhD</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.13/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -42,32 +56,8 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
+
 
 
 
@@ -77,10 +67,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -97,40 +83,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 64px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h2 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h3 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h4 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h5 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
-.section h6 {
-  padding-top: 69px;
-  margin-top: -69px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -158,7 +120,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -170,7 +132,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -181,10 +143,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -196,7 +171,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -263,7 +237,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -273,10 +247,13 @@ $(document).ready(function () {
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="PhD_Research.html">PhD Research</a>
+  <a href="Projects.html">Projects</a>
 </li>
 <li>
-  <a href="outreach.html">Outreach</a>
+  <a href="Pubs.html">Publications &amp; CV</a>
+</li>
+<li>
+  <a href="Contact.html">Contact</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -286,44 +263,53 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
-<h1 class="title toc-ignore">Nicholas Baetge</h1>
-<h4 class="author">Postdoctoral Scholar @ Oregon State University (he, him)</h4>
+<h1 class="title toc-ignore">Nick Baetge, PhD</h1>
+<h4 class="author"></h4>
 
 </div>
 
 
-<p><img align="right" src="images/art.png" width="300px"></p>
-<ul>
-<li><a href="mailto:nicholasbaetge@gmail.com" class="email">nicholasbaetge@gmail.com</a></li>
-<li><a href="https://scholar.google.com/citations?user=Ca8wN7sAAAAJ&amp;hl=en">google scholar</a></li>
-<li><a href="https://github.com/nbaetge">github</a></li>
-<li><a href="https://twitter.com/nbaetge91">twitter</a></li>
-<li><a href="https://github.com/nbaetge/nbaetge.github.io/raw/gh-pages/vitae.pdf">download cv</a></li>
-</ul>
-<hr />
-<p><strong>When you change the way you look at things, the things you look at change</strong></p>
-<p>M. Planck</p>
-<hr />
-<div id="who-in-the-world-am-i" class="section level1">
-<h1><span style="color: #002A5E;"><strong>Who in the world am I?</strong></span></h1>
-<p><br></p>
+<style>
+body, h1, h2, h3, h4 {
+    font-family: "Avenir", sans_serif;
+}
+</style>
+<p><font size="5"> I am an oceanographer who studies microorganisms in
+the ocean to understand their roles in cycling carbon and energy through
+ecosystems. </font></p>
+<p><font size="2"> To do my work, I conduct cultivation-dependent
+experiments in the lab, collect water samples from research cruises, and
+use autonomously-collected data like those from floats and satellites.
+</font></p>
 <center>
-<img src="images/me.png" width="750px">
+<img src="images/me2.png" width="1000px">
 </center>
 <p><br></p>
-<p>Someone who thinks on the run and runs to think. Though sometimes I run to escape thinking. I dig in and focus on the task at hand. I focus on trying to run faster, harder, smarter, and better. But I try to respect my limits because I’m only human. I also try to remember to have fun; else, what’s the point?</p>
-<p>This running mentality transcends to other aspects of me, increasingly the part of me that is a scientist. Not being shy to new challenges and wanting to have fun, but also having an amazing support network and some luck have all helped get me to where I am today.</p>
-<p>During my time as a graduate student, I learned from and worked with <a href="https://labs.eemb.ucsb.edu/carlson/craig/">Dr. Craig Carlson and his lab</a>, exploring the incessently fascinating world of marine microbes (read as: bacteria) and how they shape (and are shaped by) ocean biogeochemistry (read as: carbon cycling).</p>
-<p>I am currently a postdoctoral scholar with <a href="https://bpp.oregonstate.edu/users/michael-behrenfeld">Dr. Michael Behrenfeld</a> and <a href="http://kim.halsey.co">Dr. Kim Halsey</a>, with whom I will work to tease apart the diel optical signatures associated with phytoplankton from those of vertical migrating zooplankton.</p>
-<p>Poke around to learn more about my research and <strong>please, don’t hesitate to contact me!</strong></p>
+<p><font size="2"> As a laboratory technician and then doctoral student
+in the <a href="https://labs.eemb.ucsb.edu/carlson/craig/">Carlson
+lab</a> at the University of California, Santa Barbara , I gained
+expertise in the recycling of dissolved organic carbon (DOC) by
+bacterioplankton.</p>
+<p>I am now working as a postdoctoral scholar in the <a
+href="http://kim.halsey.co">Halsey</a> and <a
+href="https://sites.science.oregonstate.edu/ocean.productivity/">Behrenfeld</a>
+labs at Oregon State University. My current research goals are to:</p>
+<ol style="list-style-type: decimal">
+<li>assess how the optical properties and cell physiology of
+phytoplankton change over the day-night cycle for a variety of cultured
+species.</li>
+<li>investigate how day-night variability in the optical properties of
+phytoplankton impacts interpretations of satellite remote sensing data.
+</font></li>
+</ol>
 <hr />
-<div id="this-website-was-last-updated-november-22-2021" class="section level6">
-<h6>This website was last updated November 22, 2021</h6>
-</div>
+<div id="this-website-was-last-updated-june-11-2022"
+class="section level6">
+<h6>This website was last updated June 11, 2022</h6>
 </div>
 
 
@@ -335,7 +321,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -353,7 +339,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>
