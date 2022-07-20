@@ -22,7 +22,7 @@ body, h1, h2, h3, h4 {
 
 <br>
 
-- **Baetge, N.**, Bolaños, L., Della Penna, A., Gaube, P., Liu, S., Opalk, K., Graff, J., Giovannoni, S., Behrenfeld, M., Carlson, C. Bacterioplankton Response to Physical Stratification following Deep Convection. *Elementa: Science of the Anthropocene.* *provisionally accepted*
+- **Baetge, N.**, Bolaños, L., Della Penna, A., Gaube, P., Liu, S., Opalk, K., Graff, J., Giovannoni, S., Behrenfeld, M., Carlson, C. Bacterioplankton Response to Physical Stratification following Deep Convection. *Elementa: Science of the Anthropocene.* *in press*
 
 - Comstock, J., Nelson, C., James, A., Wear, E., **Baetge, N.**, Juknavorian, A., Carlson, C. (2022) [Bacterioplankton communities reveal horizontal and vertical influence of an Island Mass Effect](https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.16092). *Environmental Microbiology.*
 
