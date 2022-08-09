@@ -22,11 +22,11 @@ body, h1, h2, h3, h4 {
 
 <br>
 
-- **Baetge, N.**, Bolaños, L., Della Penna, A., Gaube, P., Liu, S., Opalk, K., Graff, J., Giovannoni, S., Behrenfeld, M., Carlson, C. Bacterioplankton Response to Physical Stratification following Deep Convection. *Elementa: Science of the Anthropocene.* *in press*
+- **Baetge, N.**, Bolaños, L., Della Penna, A., Gaube, P., Liu, S., Opalk, K., Graff, J., Giovannoni, S., Behrenfeld, M., Carlson, C. (2022) [Bacterioplankton Response to Physical Stratification following Deep Convection](https://online.ucpress.edu/elementa/article/10/1/00078/190269). *Elementa: Science of the Anthropocene.* 
 
 - Comstock, J., Nelson, C., James, A., Wear, E., **Baetge, N.**, Juknavorian, A., Carlson, C. (2022) [Bacterioplankton communities reveal horizontal and vertical influence of an Island Mass Effect](https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.16092). *Environmental Microbiology.*
 
-- Lewis, S., Russel, L., Saliba, G., Quinn, P., Baters, T., Carlson, C., **Baetge, N.**, Aluwihare, L., Boss, E., Haetjens, N., Frossard, A., Bell, T., Behrenfeld, M. (2022). [Characterization of Sea Surface Microlayer and Marine Aerosol Organic Composition using STXM-NEXAFS Microscopy and FTIR Spectroscopy](https://pubs.acs.org/doi/10.1021/acsearthspacechem.2c00119). *ACS Earth and Space Chemistry.* *accepted*
+- Lewis, S., Russel, L., Saliba, G., Quinn, P., Baters, T., Carlson, C., **Baetge, N.**, Aluwihare, L., Boss, E., Haetjens, N., Frossard, A., Bell, T., Behrenfeld, M. (2022). [Characterization of Sea Surface Microlayer and Marine Aerosol Organic Composition using STXM-NEXAFS Microscopy and FTIR Spectroscopy](https://pubs.acs.org/doi/10.1021/acsearthspacechem.2c00119). *ACS Earth and Space Chemistry.* 
 
 - Diaz, B., Knowles, B., Johns, C., Laber, C., Bondoc, K.G.V,  Harvey, E., Lowenstein, D., Fredricks, J., Haramaty, L., Natale, F., Graff, J., Haentjens, N., Westberry, T., **Baetge, N.**, Mojica, K., Gaube, P., Boss, E., Carlson, C., Behrenfeld, M., Van Mooy, B., Bidle, K. (2021). [Seasonal mixed layer dynamics shape phytoplankton physiology, viral infection, and accumulation in the North Atlantic](https://www.nature.com/articles/s41467-021-26836-1). *Nature Communications.*
 
