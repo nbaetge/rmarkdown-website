@@ -38,6 +38,9 @@ Below are themes that contextualize the research projects I am currently or have
  
 The daily vertical migration of zooplankton in the global oceans represents an important pathway by which carbon is shuttled from the sunlit surface to the deep dark ocean. While these vertical migrations can be detected in satellite retrievals of optical properties, specifically backscatter or backward scattered light, their signal can be obscured by the diel behaviors of phytoplankton. We are currently working on a NASA-funded project to tease apart the diel optical signatures associated with phytoplankton from those of vertical migrating zooplankton. To do so, we are evaluating changes in the optical properties and cell physiology of multiple ecologically-relevant phytoplankton species across a range of photoperiods and growth rates. 
 
+<embed src="https://nbaetge.github.io/OO22_Poster.pdf" type="application/pdf" />
+
+
 ----
 
 # <span style="color: #002A5E;">**Open Ocean Ecology and Biogeochemistry**</span>

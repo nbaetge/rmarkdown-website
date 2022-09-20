@@ -16,7 +16,7 @@ body, h1, h2, h3, h4 {
  
  <font size="3"> To do my work, I conduct cultivation-dependent experiments in the lab, collect water samples from research cruises, and use autonomously-collected data like those from floats and satellites. </font>
 
-<center><img src="images/me2.png" width="1000px"></center>  
+<center><img src="images/me3.png" width="1000px"></center>  
 
 <br>
 
