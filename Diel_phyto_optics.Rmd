@@ -1,0 +1,8 @@
+# Diel Phytoplankton Bio-optical Properties
+
+Satellite remote sensing of marine phytoplankton is critical for estimating ocean productivity and carbon cycling. Characterizing day-night cycles in phytoplankton optical properties is essential for improving the translation of remote sensing data into biogeochemical rates and stocks. In this NASA-funded project, we evaluated diel changes in the bio-optical properties for three ecologically relevant phytoplankton species to refine ocean color algorithms. We currently have a paper in revision that discusses our findings.
+\
+\
+```{r, echo=FALSE, fig.cap= "Diel cycles backscattering and attenuation at 3 wavelengths for: the nano-eukaryotic diatom *Thalassiosira pseudonana*, the cyanobacterium *Synechococcus* (WH8102), and the pico-eukaryotic chlorophyte *Ostreococcus lucimarinus*. These optical properties were related to cell concentration, proxies for cell size, and intracellular pigment composition and concentration. We observed species-specific differences in the diel variability of these optical properties, suggesting that deriving biological products (like carbon) from bio-optical (incl. remote sensing data) must consider both time of day and community composition.", out.width = '100%', fig.align='center'}
+knitr::include_graphics("figures/phyto_optics.png")
+```

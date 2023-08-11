@@ -1,0 +1,15 @@
+# About me
+
+I am a biological oceanographer who studies microorganisms to understand their role in cycling carbon and energy through ocean ecosystems.
+
+I am currently working with [Dr. Kimberly Halsey](https://kim.halsey.co) and [Dr. Michael Beherenfeld](https://sites.science.oregonstate.edu/ocean.productivity/) at Oregon State University as well as [Dr. Erin Hanan](https://erinhanan.com) at the University of Nevada, Reno as a National Science Foundation Ocean Science Postdoctoral Fellow focused on the impacts of wildfire ash deposition on ocean biology.
+\
+\
+```{r, echo=FALSE, fig.cap= "", out.width = '80%', fig.align='center'}
+knitr::include_graphics("images/sally_ride_lab.jpg")
+```
+\
+My doctoral work was guided by [Dr. Craig Carlson](https://carlson.eemb.ucsb.edu) at UC Santa Barbara and sought to clarify the magnitude and divers of surface dissolved organic carbon (DOC) accumulation over the course of the annual phytoplankton bloom in the North Atlantic, the contribution of DOC to annual vertical carbon export via deep convective mixing, and the fate of surface accumulated DOC following physical export.
+
+Since completing my doctoral work, I've gained expertise in bio-optical oceanography and the calibration and validation of satellite remote sensing data. At Oregon State University, I worked to characterize diel changes in phytoplankton optical properties and cell physiology. 
+

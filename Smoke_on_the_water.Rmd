@@ -1,0 +1,12 @@
+# Smoke on the water: the impacts of wildfire ash deposition on surface ocean biology
+
+Climate-driven warming is projected to increase the frequency, intensity, and size of wildfires that can have severe environmental, human, and economic impacts, particularly along the U.S. West Coast. These wildfires result in dramatic CO~2~emissions and deposition of ash carrying nutrients, organic matter, and trace metals onto the coastal and open ocean. Deposition of wildfire ash on the ocean can alter the carbon and energy flow through marine food webs by fertilizing microbial production or inhibiting microbial growth due to heavy metal toxicity.
+\
+
+<center>![](movies/20200908_pacnwfires-hires.mp4){ width=70% }</center>
+\
+\
+<h4 style="font-size: 14px; color: #AEC96F"> Wildfire activity on Septemeber 8, 2020 along the US West Coast montitored by the GOES-17 satellite. Credit: NOAA/CIRA </h4>
+
+\
+How the character of both the ash (e.g., chemical quality, fertilizing v. toxic) and the starting microbial community composition (e.g., diversity, size distribution) influences the microbial response to ash-derived material is unknown. As an National Science Foundation Ocean Sciences Postdoctoral Fellow, I will address this knowledge gap by investigating the physiological responses of marine plankton off the U.S West Coast to different types of ash generated from local wildfires and plant biomass. 

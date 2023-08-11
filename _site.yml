@@ -1,17 +1,36 @@
-name: "Nicholas Baetge"
+name: Nicholas Baetge
 navbar:
-  title: "Home"
+  type: inverse
+  title: "Nick Baetge"
+  href: index.html
   left:
-    - text: "Projects"
-      href: Projects.html
-    - text: "Publications & CV"
-      href: Pubs.html
-    - text: "Contact"
-      href: Contact.html
+    - text: About
+      href: About.html
+      icon: fa-home
+    - text: Projects
+      menu:
+      - text: Current
+      - text: Smoke on the water
+        href: Smoke_on_the_water.html
+      - text: Previous
+      - text: Diel phytoplankton optical properties
+        href: Diel_phyto_optics.html
+      - text: NAAMES
+        href: NAAMES.html
+      - text: ACIDD
+        href: ACIDD.html
+      icon: fa-microscope
+    - text: CV
+      href: Academic_CV.html
+      icon: fa-file
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:baetgen@oregonstate.edu
 output_dir: "."
 output:
   html_document:
-    theme: paper
-    highlight: textmate
-#    include:
-#      after_body: _footer.html
+    includes:
+      in_header: header.html
+    theme: darkly
+    highlight: breezedark
+    css: style.css

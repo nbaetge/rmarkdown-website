@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap');
+
+ /*------------- Whole Document---------------- */
+
+.title, h1, h2, h3, h4 {
+    font-family: "Merriweather";
+    color: #FFBF00;
+} 
+
+body{
+  font-family: 'Lato';
+  font-size: 19px;
+}
+
+/* links */
+a { 
+  color: #5ebccf;
+}
+
+a:hover {
+ color: #50a0b0; /* darker color when hovering */
+}
+
+.caption {
+    font-size: 14px;
+    font-family: "Merriweather";
+    color: #AEC96F;
+}
+
+body { background-color: black; }
+    pre, pre:not([class]) { background-color: black; }
+
+/*----------------ADDING WHITE SPACE-------------*/
+
+.title {
+  margin-top: 2em !important;
+  margin-bottom: 0.75em;
+}
+
+.section h1,
+.section h2, 
+.section h3, 
+.section h4, 
+.section h5 { 
+  padding-top: 3em !important; /*adding so much padding because theme adds a margin-top: -65px by default */
+  margin-bottom: 0.75em;
+}
+
+ /* Space Between TOC and 
+  Righthand side content on large screens */
+
+ @media (min-width: 992px) {
+    .col-md-9 {
+      width: 75%;
+      padding-left: 5em !important;
+    }
+ }
+ 
+ /*----------------NAVBAR ---------------*/
+.navbar-inverse {
+    background-color: #009BB0f2;
+}
+
+.navbar-inverse .navbar-nav>.open>a, 
+.navbar-inverse .navbar-nav>.active>a, 
+a.dropdown-toggle:hover {
+  background-color: #114C54 !important;
+}
+
+/* Dropdown menu color */
+.navbar-inverse .dropdown-menu {
+  background-color: ##009BB05;
+}
+
+/* Dropdown menu hover color */
+  .navbar-inverse .dropdown-menu>li>a:hover {
+    background-color: #009BB0f2;
+  }
+
+/* Navbar Links when hovered*/
+.navbar-inverse .dropdown-menu>.active>a
+.navbar-inverse .navbar-nav>.active>a:hover, 
+.navbar-inverse .navbar-nav:hover, 
+.navbar-inverse .navbar-nav>li>a:hover, 
+a.navbar-brand:hover {
+  color: #ffffffab !important;
+  background-color: #009BB0;
+}
+

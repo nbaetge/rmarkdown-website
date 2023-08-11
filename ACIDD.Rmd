@@ -1,0 +1,36 @@
+# Across the Channel: Investigating Diel Dynamics
+
+ACIDD was a student-driven oceanographic research cruise in which I was a co-PI and Chief Scientist that sought to document the daily rhythm of microbial processes in the Santa Barbara Channel (SBC). We secured ship time through the [UC Ship Funds](https://scripps.ucsd.edu/ships/uc-ship-funds-program) and over the course of a year, built a team that designed and planned achievable research objectives. When one of the California's largest recorded wildfire erupted days before our cruise, we responded quickly to take on a secondary objective: document and dissect the impacts of wildfire ash deposition on the marine ecosystems. We described both the science and our STEAM initiative, bridging art and oceanography, in this [commentary](https://tos.org/oceanography/article/california-wildfire-burns-boundaries-between-science-and-art).
+\
+\
+```{r, echo=FALSE, fig.cap= "Aerosol optical density derived from satellite remote sensing over the course of the cruise. Circles represent stations where samples were collected and experiments conducted.", out.width = '80%', fig.align='center'}
+knitr::include_graphics("figures/acidd_smoke.png")
+```
+\
+```{r, echo=FALSE, fig.cap= "In one of our experiments, we found that a natural coastal bacterial community responded similarly to the organic matter and nutrients leached from ash as they did to a mix of model compounds. The amendments both stimulated rapid increases in biomass followed by an equally rapid death phase. We also see that not all the organic carbon from the ash is used, suggesting that some of it can be exported away.", out.width = '100%', fig.align='center'}
+knitr::include_graphics("figures/acidd_bacteria.png")
+```
+
+## Outreach and Media
+
+[Dr. Kelsey Bisson](https://scholar.google.com/citations?user=8FrNCE0AAAAJ&hl=en) led a project funded by the [National Academies Keck Futures Initiative](http://www.nasonline.org/programs/keck-futures-initiative/) that wove together the strengths of art and science. She put together a team of four artists, [Celia Jacobs](http://www.celiaj.com), [Dustin Hayes](http://lvl3official.com/walter-etc/), and [Gad Girling](https://gadgirling.myportfolio.com/projects), who worked to bring oceanography to the public eye through their mediums of art, music, photography, writing, and film. 
+ 
+- See the magazine they produced [here](https://issuu.com/migrationsmag/docs/finalmigrationszinepages).
+- Watch the video they produced below, which was featured at the 2019 [Environmental Film Festival](https://dceff.org/film/aquatic-cathartic/) in Washington, D.C.
+
+<center><iframe src="https://player.vimeo.com/video/281882446" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/281882446">Aquatic Cathartic</a> from <a href="https://vimeo.com/projectacidd">Project ACIDD</a> on <a href="https://vimeo.com">Vimeo</a>.</p></center>
+
+### Press
+
+- [The Oceanography Society, 10/18](https://tos.org/pdfs/ocean_news_15.pdf)
+- [Santa Barbara Independent, 2/18](https://www.independent.com/2018/02/12/thomas-fire-ash-sampled-santa-barbara-channel/)
+- [Popular Science, 12/17](https://www.popsci.com/how-wildfire-impacts-ocean/?con=TrueAnthem&dom=fb&lnk=TA&src=SOC&utm_campaign&utm_content=5a3415d704d30137c1128bfb&utm_medium&utm_source)
+- [Scripps News, 12/17](https://scripps.ucsd.edu/news/field-night-shift-santa-barbara-channel)
+- [Daily Breeze, 12/17](https://www.dailybreeze.com/2017/12/26/are-southern-california-wildfires-a-threat-to-local-marine-life-a-new-study-aims-to-find-out/)
+- [UC Santa Barbara The Current, 6/17](https://www.news.ucsb.edu/2017/018029/tuning-channel)
+
+
+
+
+

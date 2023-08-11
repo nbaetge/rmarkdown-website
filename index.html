@@ -9,15 +9,14 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
-<meta name="author" content="" />
 
 
-<title>Nick Baetge, PhD</title>
+<title>index.knit</title>
 
-<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.22/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/darkly.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -31,8 +30,9 @@
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
+<link rel="icon" type="image/png" href="favicon.ico"/>
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -43,22 +43,13 @@
   ul.task-list{list-style: none;}
     </style>
 
-<style type="text/css">code{white-space: pre;}</style>
-<script type="text/javascript">
-if (window.hljs) {
-  hljs.configure({languages: []});
-  hljs.initHighlightingOnLoad();
-  if (document.readyState && document.readyState === "complete") {
-    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
-  }
-}
-</script>
 
 
 
 
 
 
+<link rel="stylesheet" href="style.css" type="text/css" />
 
 
 
@@ -231,7 +222,7 @@ $(document).ready(function () {
 
 
 
-<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+<div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
@@ -239,22 +230,57 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Home</a>
+      <a class="navbar-brand" href="index.html">Nick Baetge</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="Projects.html">Projects</a>
+  <a href="About.html">
+    <span class="fa fa-home"></span>
+     
+    About
+  </a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <span class="fa fa-microscope"></span>
+     
+    Projects
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li class="dropdown-header">Current</li>
+    <li>
+      <a href="Smoke_on_the_water.html">Smoke on the water</a>
+    </li>
+    <li class="dropdown-header">Previous</li>
+    <li>
+      <a href="Diel_phyto_optics.html">Diel phytoplankton optical properties</a>
+    </li>
+    <li>
+      <a href="NAAMES.html">NAAMES</a>
+    </li>
+    <li>
+      <a href="ACIDD.html">ACIDD</a>
+    </li>
+  </ul>
 </li>
 <li>
-  <a href="Pubs.html">Publications &amp; CV</a>
-</li>
-<li>
-  <a href="Contact.html">Contact</a>
+  <a href="Academic_CV.html">
+    <span class="fa fa-file"></span>
+     
+    CV
+  </a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        
+        <li>
+  <a href="mailto:baetgen@oregonstate.edu">
+    <span class="fa fa-envelope fa-lg"></span>
+     
+  </a>
+</li>
       </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
@@ -264,49 +290,57 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Nick Baetge, PhD</h1>
-<h4 class="author"></h4>
 
 </div>
 
 
-<style>
-body, h1, h2, h3, h4 {
-    font-family: "Avenir", sans_serif;
-}
-</style>
-<p><font size="5"> I am a scientist who studies microorganisms to
-understand their role in cycling carbon and energy through ocean
-ecosystems. </font></p>
-<p><font size="3"> To do my work, I conduct cultivation-dependent
-experiments in the lab, collect water samples from research cruises, and
-use autonomously-collected data like those from floats and satellites.
-</font></p>
+<div id="my-research" class="section level1">
+<h1>My Research</h1>
+<p>The oceans teem with marine microbes that move at the mercy of
+currents. These microbes are largely invisible to the naked eye, but
+have huge impacts on how food webs function and how elements are cycled
+throughout the planet. My research is dedicated to studying these
+amazing microbes and the processes they influence.</p>
 <center>
-<img src="images/me3.png" width="1000px">
+<video src="movies/or_coast_plankton_jul2023.mp4" style="width:75.0%"
+controls=""><a
+href="movies/or_coast_plankton_jul2023.mp4">Video</a></video><br />
+<br />
+
+<h4 style="font-size: 14px; color: #AEC96F">
+Plankton from the Oregon Coast in July 2023, shot with the Curiosity
+Microscope.
+</h4>
 </center>
-<p><br></p>
-<p><font size="3"> As a laboratory technician and then doctoral student
-in the <a href="https://labs.eemb.ucsb.edu/carlson/craig/">Carlson
-lab</a> at the University of California, Santa Barbara, I gained
-expertise in the recycling of dissolved organic carbon (DOC) by
-bacterioplankton.</p>
-<p>I am now working as a postdoctoral scholar in the <a
-href="http://kim.halsey.co">Halsey</a> and <a
-href="https://sites.science.oregonstate.edu/ocean.productivity/">Behrenfeld</a>
-labs at Oregon State University. My current research goals are to:</p>
-<ol style="list-style-type: decimal">
-<li>assess how the optical properties and cell physiology of
-phytoplankton change over the day-night cycle for a variety of cultured
-species.</li>
-<li>investigate how day-night variability in the optical properties of
-phytoplankton impacts interpretations of satellite remote sensing data.
-</font></li>
-</ol>
+<p><br />
+</p>
+<p>CO<sub>2</sub> entering the ocean from the atmosphere is fixed into
+organic carbon by phytoplankton in the surface ocean. The produced
+organic carbon fuels marine food webs, but a portion can also make its
+way or be exported deep into the ocean interior where it is separated
+from the atmosphere for centuries to millennia. This vertical export of
+organic carbon is a major mechanism by which the ocean can act as a
+buffer to increasing human CO<sub>2</sub> emissions.<br />
+<br />
+<br />
+<img src="figures/conceptual_fig.png" width="80%" style="display: block; margin: auto;" /><br />
+My research interests:</p>
+<ul>
+<li>How are the different carbon storage pools in the ocean shaped by
+microbial activity?</li>
+<li>How do the relationships between microbes and carbon pools vary
+between different environments and over different timescales?</li>
+<li>How will microbial activity change as our climate changes and their
+environments are perturbed?</li>
+</ul>
+<p>I’ve approached these questions by collaborating with a diversity of
+marine scientists to collect and synthesize biogeochemical, bio-optical,
+remote sensing, and experimental data.</p>
 <hr />
-<div id="this-website-was-last-updated-january-15-2023"
+<div id="this-website-was-last-updated-august-10-2023"
 class="section level6">
-<h6>This website was last updated January 15, 2023</h6>
+<h6>This website was last updated August 10, 2023</h6>
+</div>
 </div>
 
 

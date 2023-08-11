@@ -1,31 +1,28 @@
----
-title: "Nick Baetge, PhD"
-author:  
-output:
-  html_document:
-    fig_width: 1
----
+# My Research
 
-<style>
-body, h1, h2, h3, h4 {
-    font-family: "Avenir", sans_serif;
-}
-</style>
+The oceans teem with marine microbes that move at the mercy of currents. These microbes are largely invisible to the naked eye, but have huge impacts on how food webs function and how elements are cycled throughout the planet. My research is dedicated to studying these amazing microbes and the processes they influence.
 
- <font size="5"> I am a scientist who studies microorganisms to understand their role in cycling carbon and energy through ocean ecosystems. </font>
- 
- <font size="3"> To do my work, I conduct cultivation-dependent experiments in the lab, collect water samples from research cruises, and use autonomously-collected data like those from floats and satellites. </font>
+<center>![](movies/or_coast_plankton_jul2023.mp4){ width=75% }
+\
+\
+<h4 style="font-size: 14px; color: #AEC96F"> Plankton from the Oregon Coast in July 2023, shot with the Curiosity Microscope. </h4></center>
+\
 
-<center><img src="images/me3.png" width="1000px"></center>  
+CO~2~ entering the ocean from the atmosphere is fixed into organic carbon by phytoplankton in the surface ocean. The produced organic carbon fuels marine food webs, but a portion can also make its way or be exported deep into the ocean interior where it is separated from the atmosphere for centuries to millennia. This vertical export of organic carbon is a major mechanism by which the ocean can act as a buffer to increasing human CO~2~ emissions. 
+\
+\
+\
+```{r, echo=FALSE, fig.cap= "", out.width = '80%', fig.align='center'}
+knitr::include_graphics("figures/conceptual_fig.png")
+```
+\
+My research interests: 
 
-<br>
+- How are the different carbon storage pools in the ocean shaped by microbial activity? 
+- How do the relationships between microbes and carbon pools vary between different environments and over different timescales? 
+- How will microbial activity change as our climate changes and their environments are perturbed?
 
-<font size="3"> As a laboratory technician and then doctoral student in the [Carlson lab](https://labs.eemb.ucsb.edu/carlson/craig/) at the University of California, Santa Barbara, I gained expertise in the recycling of dissolved organic carbon (DOC) by bacterioplankton. 
-
-I am now working as a postdoctoral scholar in the [Halsey](http://kim.halsey.co) and [Behrenfeld](https://sites.science.oregonstate.edu/ocean.productivity/) labs at Oregon State University. My current research goals are to: 
-
-1. assess how the optical properties and cell physiology of phytoplankton change over the day-night cycle for a variety of cultured species.
-2. investigate how day-night variability in the optical properties of phytoplankton impacts interpretations of satellite remote sensing data. </font>
+I’ve approached these questions by collaborating with a diversity of marine scientists to collect and synthesize biogeochemical, bio-optical, remote sensing, and experimental data.
 
 ----
 
