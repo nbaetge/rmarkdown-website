@@ -18,8 +18,7 @@ knitr::include_graphics("figures/acidd_bacteria.png")
 - See the magazine they produced [here](https://issuu.com/migrationsmag/docs/finalmigrationszinepages).
 - Watch the video they produced below, which was featured at the 2019 [Environmental Film Festival](https://dceff.org/film/aquatic-cathartic/) in Washington, D.C.
 
-<center><iframe src="https://player.vimeo.com/video/281882446" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/281882446">Aquatic Cathartic</a> from <a href="https://vimeo.com/projectacidd">Project ACIDD</a> on <a href="https://vimeo.com">Vimeo</a>.</p></center>
+<center><iframe src="https://player.vimeo.com/video/281882446" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></center>
 
 ### Press
 
