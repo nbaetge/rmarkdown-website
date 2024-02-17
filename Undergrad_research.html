@@ -1,0 +1,625 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Undergrad_research.knit</title>
+
+<script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/darkly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet" />
+<link rel="icon" type="image/png" href="favicon.ico"/>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Nick Baetge</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="About.html">
+    <span class="fa fa-home"></span>
+     
+    About
+  </a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <span class="fa fa-microscope"></span>
+     
+    Projects
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li class="dropdown-header">Current</li>
+    <li>
+      <a href="Smoke_on_the_water.html">Smoke on the water</a>
+    </li>
+    <li class="dropdown-header">Previous</li>
+    <li>
+      <a href="Diel_phyto_optics.html">Diel phytoplankton optical properties</a>
+    </li>
+    <li>
+      <a href="NAAMES.html">NAAMES</a>
+    </li>
+    <li>
+      <a href="ACIDD.html">ACIDD</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <span class="fa fa-folder"></span>
+     
+    Student Resources
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="Undergrad_research.html">Undergraduates</a>
+    </li>
+    <li>
+      <a href="Graduate_resources.html">Graduates</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="Academic_CV.html">
+    <span class="fa fa-file"></span>
+     
+    CV
+  </a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="mailto:baetgen@oregonstate.edu">
+    <span class="fa fa-envelope fa-lg"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+
+</div>
+
+
+<div id="undergraduate-research" class="section level1">
+<h1>Undergraduate Research</h1>
+<p>This is an informal guide for undergraduates who are interested in
+exploring science as a career option by getting involved and
+contributing in laboratory research. This guide was initially crafted by
+my friend and colleague <a
+href="https://scholar.google.com/citations?user=2OnvnAkAAAAJ&amp;hl=en">Dr. Dylan
+Catlett</a> and I will continue to adapt it over time.</p>
+<p>I encourage you to tap into your network and ask others, including
+your professors and TAs, for additional information and advice.</p>
+<div id="career-trajectories" class="section level2">
+<h2>Career trajectories</h2>
+<p>There are many career paths in (environmental) science, including in
+academia (i.e, universities, community colleges), government
+organizations, policy and law, and in the private sector. If you’re
+interested in any of these careers, seeking out research experience as
+an undergraduate is a great way to expand your network and develop/hone
+skills that translate across all of these paths, including soft skills,
+critical thinking, writing and communication, and data generation,
+analysis and interpretation.</p>
+<p>A graduate degree (MS, PhD) is not required to land a good job in
+science, but it can help broaden your options. Most high-quality
+graduate programs in scientific disciplines require minimal coursework
+relative to an undergraduate degree and focus on practical research
+experiences. Research experience is usually required to be admitted to
+graduate school. Most who pursue graduate degrees in scientific
+disciplines do not pay out of pocket for tuition and associated fees,
+and receive a living wage and benefits (health insurance) while in
+school.</p>
+</div>
+<div id="before-you-start" class="section level2">
+<h2>Before you start</h2>
+<ul>
+<li><p>Remember, being “prodigy”, “genius”, or having a 4.0 GPA is not a
+requirement for having a successful career in science or in
+research.</p></li>
+<li><p>Wherever you decide to start your career in science likely will
+not be where your career in science ends.</p></li>
+<li><p>You don’t need to know much about research before you get
+involved! If you’re a 1st or 2nd year, you should have some evidence
+that you’re interested in science (for example, by taking some classes).
+If you’re a 3rd or 4th year, you should be close to declaring or
+declared as a science major and have taken a decent number of science
+classes.</p></li>
+<li><p>In general, everyone (you and your future research mentor) gets
+more out of undergraduate research when the undergraduate student sticks
+with it for a while. You should be pretty confident you want to give
+this a shot for 6 months or more (summer opportunities can be shorter
+term with a bigger time commitment per week).</p></li>
+<li><p>Undergraduates often start out in research with menial tasks like
+washing lab dishes, entering data into spreadsheets, etc. Expect to
+spend your first 1-3 months in research doing mostly boring stuff. You
+never fully get off the hook from the boring stuff, but you tend to have
+to do less of it as you get more experience.</p></li>
+<li><p>There are paid and volunteer research opportunities available.
+The paid positions can be harder to come by, but there are likely
+programs at your university that you can look into.</p></li>
+<li><p>Every research experience is different. Some dive into lab bench
+work, others focus on computational work, and some take to field work.
+Asking the people you’re interested in working with about the day-to-day
+is a good idea before you commit several months to an
+opportunity.</p></li>
+</ul>
+</div>
+<div id="steps-to-get-into-a-lab" class="section level2">
+<h2>Steps to get into a lab</h2>
+<div id="prepare-a-curriculum-vitae" class="section level3">
+<h3>Prepare a curriculum vitae</h3>
+<ul>
+<li>1-page. It’s ok at your career stage if you don’t have much on
+there. Some things to include are your name and contact information,
+work and/or volunteer experiences from high school and/or college, your
+major and GPA, relevant coursework (this may change depending on who
+you’re giving it to), any other qualifications or skills. <a
+href="https://career.oregonstate.edu/careered/create-résumés-cvs-and-cover-letters">OSU’s
+Career Development Center</a> is a great resource for guidance.</li>
+</ul>
+</div>
+<div
+id="identify-programs-scholarships-research-programs-youre-interested-in"
+class="section level3">
+<h3>Identify programs, scholarships, research programs you’re interested
+in</h3>
+<ul>
+<li><p>Look through the faculty profiles on departmental webpages in the
+field(s) you’re interested in (e.g., <a
+href="https://microbiology.oregonstate.edu">Microbiology</a> or <a
+href="https://catalog.oregonstate.edu/college-departments/agricultural-sciences/botany-plant-pathology/">Botany
+and Plant Pathology</a>). Most faculty members have a lab website, so if
+the brief description on the directory page sounds interesting, check
+out their lab page for more information. If you don’t find a webpage on
+the departmental site, try google-ing.</p></li>
+<li><p>As you read through webpages, take note of the people working on
+the topics that sound the most interesting to you. Note their email
+addresses, if they have specific instructions for applying to work in
+the lab, and what general topic(s) they work on that are interesting to
+you.</p></li>
+<li><p>Many funding opportunities for undergraduate research require you
+to have a faculty sponsor, so when you talk with professors about
+working in their lab, it can help your case to say that you want to try
+for one of these.</p></li>
+</ul>
+<div id="osu-undergraduate-research-programs" class="section level4">
+<h4>OSU undergraduate research programs</h4>
+<p><a
+href="https://undergraduate.oregonstate.edu/research">Undergraduate,
+Research, Scholarship and the Arts (URSA)</a></p>
+<div id="college-of-science" class="section level5">
+<h5>College of Science</h5>
+<ul>
+<li><p><a
+href="https://science.oregonstate.edu/hands-on-experiences/undergraduate-research/sure-science-program">Summer
+Undergraduate Research Experience (SURE)</a></p></li>
+<li><p><a
+href="https://science.oregonstate.edu/hands-on-experiences/undergraduate-research/lure-science-program">Launching
+Undergraduate Research Experiences(LURE)</a></p></li>
+</ul>
+</div>
+<div id="college-of-agricultural-sciences" class="section level5">
+<h5>College of Agricultural Sciences</h5>
+<ul>
+<li><p><a
+href="https://agsci.oregonstate.edu/education/undergraduate-research/beginning-researcher-support-program">Beginning
+Researcher Support Program</a></p></li>
+<li><p><a
+href="https://agsci.oregonstate.edu/education/undergraduate-research/continuing-researcher-support-program">Continuing
+Researcher Support Program</a></p></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="apply" class="section level3">
+<h3>Apply</h3>
+<ul>
+<li><p>Most structured scholarship or other paid research training
+programs will have formal applications. Make sure to carefully read all
+the guidelines and follow them. If they include a description of what
+they are looking for in applicants, try to explicitly address those
+(it’s ok to use their wording) in your application.</p></li>
+<li><p>Some labs will have formal guidelines listed on their webpage for
+applying to the lab. If so, follow the instructions carefully and make
+sure you send them everything they ask for. Writing something into your
+application/email/cover letter that shows you’ve read through their
+website and maybe one of their scientific papers (whether or not you
+understood any of it) is helpful.</p></li>
+<li><p>If you find a lab you’re interested in and they have no
+guidelines on how to apply/inquire about opportunities (this is
+extremely common…), it’s time to start cold-emailing…</p></li>
+</ul>
+</div>
+<div id="cold-emailing" class="section level3">
+<h3>Cold-emailing</h3>
+<ul>
+<li><p>Many undergraduate research positions are initiated after an
+undergraduate cold-emails a faculty member, grad student, or postdoc to
+say they want to try research. It can feel scary but you don’t have to
+be scared!</p></li>
+<li><p>In your internet browsing above, you should try to identify 5-10
+faculty whose research you’re interested in. Email all of them – there’s
+an example cold email below to guide you.</p></li>
+<li><p>You should expect at least 50% of the faculty you email not to
+reply the first time. Give them 2-3 weeks and for those who don’t
+respond, it’s totally normal and acceptable to send a brief follow-up
+email to remind them (also an example below).</p></li>
+<li><p>There’s a good chance ~50% won’t reply to the second email
+either. Don’t take this personally, it’s just how it is.</p></li>
+<li><p>Hopefully 1-3 faculty respond to your email, have an opening, and
+want to set up a meeting (sometimes they’ll call it an interview) to
+talk more with you. Respond promptly and professionally and make it as
+easy as possible for them to schedule a meeting with you (example
+below).</p></li>
+<li><p>If you’re really interested in one lab group’s research but the
+professor isn’t responding to your cold emails, you can also try
+cold-emailing a graduate student or postdoc in their lab with the same
+sort of approach. Grad students and postdocs can be more responsive than
+their faculty advisors and are often the ones spending the most time in
+training/mentoring undergraduate researchers.</p></li>
+</ul>
+<div
+id="heres-an-example-of-a-cold-email-20-year-old-nick-who-was-an-aquatic-biology-major-if-he-went-to-osu-would-write-to-40-year-old-future-nick-if-he-miraculously-got-a-faculty-job-at-osu"
+class="section level4">
+<h4>Here’s an example of a cold-email 20-year old Nick (who was an
+aquatic biology major), if he went to OSU, would write to 40-year old
+future Nick if he miraculously got a faculty job at OSU:</h4>
+<p><font size="2"> Dear Dr. Baetge,</p>
+<p>My name is Nick and I’m a 3rd year undergraduate student majoring in
+Environmental Sciences with the aquatic biology option here at OSU. I’m
+writing to ask if you have any openings for undergraduates to join your
+lab as research assistants. I’ve been very interested in getting
+involved in marine microbiology research since taking MB 230, an
+introductory microbiology class at OSU. I found your webpage through the
+Microbiolgy website and really enjoyed learning about your research on
+coastal phytoplankton and bacteria. Although my interests are extremely
+broad, I found your research involving the use of lab experiments and
+satellite observations to study wildfire ash impacts on plankton
+particularly interesting and I would be especially excited to apply my
+background in biology to research focused on similar questions.</p>
+<p>If you have any opportunities for undergraduate assistants to help in
+your research, I would love to be considered. Please find my resume
+attached and let me know if there is anything else I can do to be
+considered for an undergraduate researcher position in your lab.</p>
+<p>Thank you very much for your time and consideration,</p>
+<p>Nick Baetge </font></p>
+</div>
+<div
+id="heres-an-example-of-a-follow-up-to-the-cold-email-young-nick-would-send-if-he-didnt-hear-back-for-a-few-weeks.-he-would-reply-to-the-initial-email-he-sent-so-it-was-attached-to-this-follow-up-email"
+class="section level4">
+<h4>Here’s an example of a follow-up to the cold-email young Nick would
+send if he didn’t hear back for a few weeks. He would reply to the
+initial email he sent so it was attached to this follow-up email:</h4>
+<p><font size="2"> Dear Dr. Baetge,</p>
+<p>I wanted to follow up to make sure you received my message from a few
+weeks ago (see below). I have re-attached my resume to this email just
+in case. Please let me know if you have any openings for undergraduate
+researchers to join your lab, and if so, if I can provide any further
+information to improve my chances of being considered.</p>
+<p>Thank you,</p>
+<p>Nick </font></p>
+</div>
+<div id="lets-say-dr.-baetge-responds" class="section level4">
+<h4>Let’s say Dr. Baetge responds:</h4>
+<p><font size="2"> Hi Nick,</p>
+<p>I’m happy to hear you’re interested in my lab group’s research. Are
+you available to talk in more detail in the next few weeks?</p>
+<p>Thanks,</p>
+<p>Dr. Baetge </font></p>
+</div>
+<div id="young-nick-would-then-respond" class="section level4">
+<h4>Young Nick would then respond:</h4>
+<p><font size="2"> Dear Dr. Baetge,</p>
+<p>Thank you very much for your response! I would love to talk more.
+Over the next few weeks I’m available (list some dates) at [list some
+times] (be as brief but as flexible as possible here). Please let me
+know if you can find a convenient time in those windows.</p>
+<p>Thanks again and looking forward to talking with you,</p>
+<p>Nick </font></p>
+</div>
+</div>
+<div id="the-meetinginterview" class="section level3">
+<h3>The meeting/interview</h3>
+<ul>
+<li><p>Study for this. Do your best to read 1 or 2 of your prospective
+research advisor’s scientific papers (the ones that interest you most!!)
+and take notes and write down questions.</p></li>
+<li><p>Be prepared with questions. Both about the science and about
+logistics. How much am I expected to work? What will work look like? Is
+there opportunity to be compensated for this work (or “are there any
+scholarships I can apply for to be compensated for this work”)? Is there
+opportunity to earn course credits? Do a senior thesis?</p></li>
+<li><p>Don’t be late. Show up to the meeting 5 minutes early if
+anything.</p></li>
+<li><p>You usually don’t need to dress up, but you probably don’t want
+to show up in a bathing suit or run over straight from a workout
+either.</p></li>
+<li><p>Be yourself. Be honest about what you’re interested in (including
+if you don’t know), and don’t try to act like you know what they’re
+talking about if you don’t (you will probably get busted; it’s better to
+just ask questions). Thank them for taking the time at the beginning and
+end of the meeting and if they give you an opportunity to follow-up,
+don’t miss it :)</p></li>
+</ul>
+</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

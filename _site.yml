@@ -20,6 +20,13 @@ navbar:
       - text: ACIDD
         href: ACIDD.html
       icon: fa-microscope
+    - text: Student Resources
+      menu:
+      - text: Undergraduates
+        href: Undergrad_research.html
+      - text: Graduates
+        href: Graduate_resources.html  
+      icon: fa-folder
     - text: CV
       href: Academic_CV.html
       icon: fa-file

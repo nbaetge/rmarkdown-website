@@ -2,14 +2,40 @@
 
  /*------------- Whole Document---------------- */
 
-.title, h1, h2, h3, h4 {
+.title {
     font-family: "Merriweather";
     color: #FFBF00;
+    font-size: 26px;
+} 
+
+h1 {
+    font-family: "Merriweather";
+    color: #AEC96F;
+    font-size: 24px;
+} 
+
+h2 {
+    font-family: "Merriweather";
+    color: #FFBF00;
+    font-size: 22px;
+} 
+
+h3 {
+    font-family: "Merriweather";
+    color: #AEC96F;
+    font-size: 18px;
+} 
+
+h4 {
+    font-family: "Merriweather";
+    color: #FFBF00;
+    font-size: 16px;
+    font-style: italic;
 } 
 
 body{
   font-family: 'Lato';
-  font-size: 19px;
+  font-size: 14px;
 }
 
 /* links */
@@ -22,7 +48,7 @@ a:hover {
 }
 
 .caption {
-    font-size: 14px;
+    font-size: 12px;
     font-family: "Merriweather";
     color: #AEC96F;
 }
@@ -42,7 +68,7 @@ body { background-color: black; }
 .section h3, 
 .section h4, 
 .section h5 { 
-  padding-top: 3em !important; /*adding so much padding because theme adds a margin-top: -65px by default */
+  padding-top: 5em !important; /*adding so much padding because theme adds a margin-top: -65px by default */
   margin-bottom: 0.75em;
 }
 
