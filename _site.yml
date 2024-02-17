@@ -22,9 +22,9 @@ navbar:
       icon: fa-microscope
     - text: Student Resources
       menu:
-      - text: Undergraduates
+      - text: Breaking into undergraduate research
         href: Undergrad_research.html
-      - text: Graduates
+      - text: Graduate student opportunities and funding
         href: Graduate_resources.html  
       icon: fa-folder
     - text: CV
