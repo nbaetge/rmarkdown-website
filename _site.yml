@@ -20,6 +20,9 @@ navbar:
       - text: ACIDD
         href: ACIDD.html
       icon: fa-microscope
+    - text: Publications
+      href: publications.html
+      icon: fa-book
     - text: Student Resources
       menu:
       - text: Breaking into undergraduate research
