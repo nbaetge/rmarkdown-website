@@ -1,3 +1,8 @@
+---
+title: ""
+output: html_document
+---
+
 # Publications
 
 **Baetge, N.**, Halsey, K.H., Graff, J.R., Ver Wey, B., Westberry, T.K., Appel, A.E., Bourdin, G., Begouen Demeaux, C., Boss, E., Behrenfeld, M.J. (2024) [Physiological and interspecific factors determine diel changes in phytoplankton bio-optical properties](https://doi.org/10.1002/lno.12493). *Limnology and Oceanography*, (69)2, 390-407.

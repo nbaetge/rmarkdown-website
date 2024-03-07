@@ -1,3 +1,8 @@
+---
+title: ""
+output: html_document
+---
+
 # Across the Channel: Investigating Diel Dynamics
 
 ACIDD was a student-driven oceanographic research cruise in which I was a co-PI and Chief Scientist that sought to document the daily rhythm of microbial processes in the Santa Barbara Channel (SBC). We secured ship time through the [UC Ship Funds](https://scripps.ucsd.edu/ships/uc-ship-funds-program) and over the course of a year, built a team that designed and planned achievable research objectives. When one of the California's largest recorded wildfire erupted days before our cruise, we responded quickly to take on a secondary objective: document and dissect the impacts of wildfire ash deposition on the marine ecosystems. We described both the science and our STEAM initiative, bridging art and oceanography, in this [commentary](https://tos.org/oceanography/article/california-wildfire-burns-boundaries-between-science-and-art).

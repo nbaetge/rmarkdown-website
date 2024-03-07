@@ -1,3 +1,8 @@
+---
+title: ""
+output: html_document
+---
+
 # My Research
 
 The oceans teem with marine microbes that move at the mercy of currents. These microbes are largely invisible to the naked eye, but have huge impacts on how food webs function and how elements are cycled throughout the planet. My research is dedicated to studying these amazing microbes and the processes they influence.

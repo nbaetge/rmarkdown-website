@@ -1,3 +1,7 @@
+---
+title: ""
+output: html_document
+---
 
 # Graduate Student Applications
 

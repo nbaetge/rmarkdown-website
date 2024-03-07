@@ -12,9 +12,9 @@ navbar:
       - text: Current
       - text: Smoke on the water
         href: Smoke_on_the_water.html
-      - text: Previous
       - text: Diel phytoplankton optical properties
         href: Diel_phyto_optics.html
+      - text: Previous
       - text: NAAMES
         href: NAAMES.html
       - text: ACIDD

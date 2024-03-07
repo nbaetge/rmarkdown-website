@@ -1,3 +1,8 @@
+---
+title: ""
+output: html_document
+---
+
 # About me
 
 ```{r, echo=FALSE, fig.cap= "", out.width = '40%', fig.align='center'}

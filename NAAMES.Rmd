@@ -1,3 +1,8 @@
+---
+title: ""
+output: html_document
+---
+
 # North Atlantic Aerosols and Marine Ecosystems Study
 
 The Northwest Atlantic Ocean is a region characterized by both massive seasonal phytoplankton blooms and deep convective overturning events that can physically deliver organic carbon produced by phytoplankton to depth, where it can be sequestered on the timescales of ocean circulaiton. The region is consequently important in regulating the flux of atmospheric CO~2~ into the ocean.

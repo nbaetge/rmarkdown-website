@@ -1,3 +1,8 @@
+---
+title: ""
+output: html_document
+---
+
 # Undergraduate Research
 
 This is an informal guide for undergraduates who are interested in exploring science as a career option by getting involved and contributing in laboratory research. This guide was initially crafted by my friend and colleague [Dr. Dylan Catlett](https://scholar.google.com/citations?user=2OnvnAkAAAAJ&hl=en) and I will continue to adapt it over time. 
