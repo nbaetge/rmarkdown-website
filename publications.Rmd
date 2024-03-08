@@ -5,12 +5,19 @@ output: html_document
 
 # Publications
 
+#### [Google Scholar](https://scholar.google.com/citations?user=Ca8wN7sAAAAJ&hl=en&authuser=1)
+
+
+### 2024
+
 **Baetge, N.**, Halsey, K.H., Graff, J.R., Ver Wey, B., Westberry, T.K., Appel, A.E., Bourdin, G., Begouen Demeaux, C., Boss, E., Behrenfeld, M.J. (2024) [Physiological and interspecific factors determine diel changes in phytoplankton bio-optical properties](https://doi.org/10.1002/lno.12493). *Limnology and Oceanography*, (69)2, 390-407.
-\
-\
+
+### 2023
+
 Knowles, B., Bonachela, J.A., Cieslik, N., Della Penna, A., Diaz, B., **Baetge, N.**, Behrenfeld, M.J., Naumovitz, K., Boss, E., Graff, J.R., Halsey, K.H., Haramaty, L., Karp-Boss, L., Bidle, K.D. (2023) [Altered growth and death in dilution-based viral predation assays](https://doi.org/10.1371/journal.pone.0288114). *Plos one*, 18(7), e0288114.
-\
-\
+
+### 2022
+
 **Baetge, N.**, Bolaños, L., Della Penna, A., Gaube, P., Liu, S., Opalk, K., Graff, J., Giovannoni, S., Behrenfeld, M., Carlson, C. (2022) [Bacterioplankton Response to Physical Stratification following Deep Convection](https://online.ucpress.edu/elementa/article/10/1/00078/190269). *Elementa: Science of the Anthropocene.* 10(1), 00078.
 \
 \
@@ -18,8 +25,9 @@ Comstock, J., Nelson, C., James, A., Wear, E., **Baetge, N.**, Juknavorian, A., 
 \
 \
 Lewis, S., Russel, L., Saliba, G., Quinn, P., Baters, T., Carlson, C., **Baetge, N.**, Aluwihare, L., Boss, E., Haetjens, N., Frossard, A., Bell, T., Behrenfeld, M. (2022) [Characterization of Sea Surface Microlayer and Marine Aerosol Organic Composition using STXM-NEXAFS Microscopy and FTIR Spectroscopy](https://pubs.acs.org/doi/10.1021/acsearthspacechem.2c00119).  *ACS Earth and Space Chemistry.* 6(7), 1899-1913.
-\
-\
+
+### 2021
+
 Diaz, B., Knowles, B., Johns, C., Laber, C., Bondoc, K.G.V,  Harvey, E., Lowenstein, D., Fredricks, J., Haramaty, L., Natale, F., Graff, J., Haentjens, N., Westberry, T., **Baetge, N.**, Mojica, K., Gaube, P., Boss, E., Carlson, C., Behrenfeld, M., Van Mooy, B., Bidle, K. (2021) [Seasonal mixed layer dynamics shape phytoplankton physiology, viral infection, and accumulation in the North Atlantic](https://www.nature.com/articles/s41467-021-26836-1). *Nature Communications.* 12(1), 6634.
 \
 \
@@ -30,8 +38,9 @@ Wagner, S., Harvey, E., **Baetge, N.**, McNair, H., Arrington, E., Stubbins, A. 
 \
 \
 Bolaños, L., Choi, C.J., Worden, A., **Baetge, N.**, Carlson, C., Giovannoni, S. (2021) [Seasonality of the microbial community composition in the western North Atlantic](https://doi.org/10.3389/fmars.2021.624164). *Frontiers in Marine Science*. 8, 624164.
-\
-\
+
+### 2020
+
 Hendrickson, B., Brooks, S., Thornton, D., Moore, R., Crosbie, E., Ziemba, L., Carlson, C., **Baetge, N.**, Mirrielees, J., and Alsante, A. (2020) [Role of Sea Surface Microlayer Properties in Cloud Formation](https://doi.org/10.3389/fmars.2020.596225). *Frontiers in Marine Science*. 7, 596225.
 \
 \
@@ -48,8 +57,9 @@ Liu, S., **Baetge, N.**, Comstock, J., Opalk, K., Parsons, R., Halewood, E., Eng
 \
 \
 Saliba, G., Chen, C., Lewis, S., Russell. L, Quinn, P., Bates, T., Bell, T., Lawler, M., Saltzman, E., Sanchez, K., Moore, R., Shook, M., Rivellini, L., Lee, A., **Baetge, N.**, Carlson, C., Behrenfeld, M. (2020) [Seasonal Differences and Variability of Concentrations, Chemical Composition, and Cloud Condensation Nuclei of Marine Aerosol over the North Atlantic](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD033145). *Journal of Geophysical Research: Atmospheres.* 125(19).
-\
-\
+
+### 2019
+
 Saliba, G., Chen, C. L., Lewis, S., Russell, L. M., Rivellini, L. H., Lee, A. K., Quinn, P.K., Bates, T.S., Haëntjens, N., Boss, E.S., Karp-Boss, L., **Baetge, N.**, Carlson, C., Behrenfeld, M. (2019) [Factors driving the seasonal and hourly variability of sea-spray aerosol number in the North Atlantic](https://doi.org/10.1073/pnas.1907574116). *Proceedings of the National Academy of Sciences*. 116(41), 20309-20314.
 \
 \
