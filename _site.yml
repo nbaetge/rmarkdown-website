@@ -27,7 +27,7 @@ navbar:
       menu:
       - text: Breaking into undergraduate research
         href: Undergrad_research.html
-      - text: Graduate student opportunities and funding
+      - text: Resources for prospective and current graduate students 
         href: Graduate_resources.html  
       icon: fa-folder
     - text: CV

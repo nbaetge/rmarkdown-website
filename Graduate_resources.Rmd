@@ -7,6 +7,8 @@ output: html_document
 
 An *excellent* [guide to graduate school admissions](https://docs.google.com/document/u/2/d/e/2PACX-1vQcAcPKrThKidO-o4inKguECF81jpes1Cjbrs0Jn5aky5zEKXr8xtGBB9NkL5mV56lQTnKfykKhm1zT/pub) process for the UC Santa Barbara Interdepartmental Graduate Program in Marine Science, but with information applicable to other programs. 
 
+The [Hidden Curriculum](https://lor.instructure.com/resources/4dbadf21d0a84ce8b826d97c6f857adb?shared) presented by UW Madison on how to be a successful graduate student and the barriers faced when transitioning into graduate school.
+
 # Funding for Graduate Students
 
 - [The Johns Hopkins List of Graduate Student Funding Opportunities](https://research.jhu.edu/rdt/funding-opportunities/graduate/)
@@ -33,7 +35,7 @@ An *excellent* [guide to graduate school admissions](https://docs.google.com/doc
 
 - [American Association of University Women](https://www.aauw.org/resources/programs/fellowships-grants/)
 
-# Opportunities for Graduate Students
+# Career Opportunities for Graduate Students
 
 - [Active recruitment efforts in Marine Sciences (compiled by LatinX)](https://docs.google.com/spreadsheets/d/14ySe_J3KMrTUrIvi843btc6SmKefWNuVbReTsabotqM/edit)
 
@@ -43,9 +45,53 @@ An *excellent* [guide to graduate school admissions](https://docs.google.com/doc
 
 - [ECO magazine ocean career list](https://www.ecomagazine.com/news/opportunity/)
 
+# Field Opportunities for Graduate Students
+
 - [UNOLS Cruise Opportunity program mailing list](https://www.unols.org/form/contact-us-form)
+
+- [UNOLS Chief Scientist Training Cruise Program](https://www.unols.org/nsf-unols-chief-scientist-training-cruise)
+
+# Summer Courses for Graduate Students
 
 - [NASA/UMaine Calibration & Validation for Ocean Color Remote Sensing summer workshop](https://misclab.umeoce.maine.edu/OceanOpticsClass2023/about/)
 
 - [Cornell Satellite Remote Sensing summer course](http://oceanography.eas.cornell.edu/satellite/)
+
+- [MBL Microbial Diversity](https://www.mbl.edu/education/advanced-research-training-courses/course-offerings/microbial-diversity)
+
+- [Summer Courses at Friday Harbor Labs](https://fhl.uw.edu/courses/)
+
+# Community and Support Networks
+
+- [Black in Marine Science](https://www.blackinmarinescience.org)
+
+- [Black in Geoscience](https://twitter.com/blkingeoscience?lang=en)
+
+- [National Association of Black Geoscientists](https://www.americangeosciences.org/society/national-association-black-geoscientists)
+
+- [BWEEMS (Black Women in Ecology, Evolution, and Marine Science)](https://www.bweems.org)
+
+- [Society for Advancement of Chicanos/Hispanics & Native American in Science](https://www.sacnas.org)
+
+- [LatinX in the Marine Sciences](https://twitter.com/i/flow/login?redirect_after_login=%2Fi%2Fflow%2Flogin)
+
+- [GeoLatinas](https://geolatinas.org)
+
+- [Asian Americans and Pacific Islanders in Geosciences](https://aapigeosci.org)
+
+- [Association of Filipino Scientists in America](https://linktr.ee/afsa.official)
+
+- [The International Association for Geoscience Diversity](https://theiagd.org)
+
+- [American Indian Science and Engineering Society](https://www.aises.org)
+
+- [500 Queer Scientists](https://500queerscientists.com)
+
+- [500 Women Scientists](https://500womenscientists.org)
+
+- [Society for Women in Marine Science](https://swmsmarinescience.com)
+
+- [Earth Science Women's Network](https://eswnonline.org)
+
+- [Mentoring Physical Oceanography Women to Increase Retention (MPOWIR)](https://mpowir.org)
 
