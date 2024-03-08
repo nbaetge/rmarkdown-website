@@ -1,0 +1,47 @@
+---
+title: ""
+output: html_document
+---
+
+# Funding for International Students
+
+- [American Association of University Women International Fellowships for graduate and postdoctoral study](https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/international/)
+
+- [Fulbright Scholar Program for non-U.S. scholars](https://fulbrightscholars.org/non-us-scholars)
+
+- [Link Foundation Ocean Engineering and Instrumentation Fellowship Program (one year towards Ph.D. degree)](https://linkoe.org)
+
+- [North Pacific Research Board (NPRB) Graduate Student Research Awards for work that addresses management issues in North Pacific](https://nprb.org/graduate-research-awards/#section-2)
+
+- [Schlanger Ocean Drilling Fellowship for research using data/samples from the International Ocean Discovery Program (one year towards Ph.D.)](https://usoceandiscovery.org/fellowships/)
+
+- [Society of Exploration Geophysicists Scholarship for  high school seniors, undergraduates, or graduate students pursuing a college curriculum in applied geophysics](https://seg.org/programs/student-programs/scholarships/)
+
+- [Paul & Daisy Soros Fellowships for New Americans who are (1) is a resident alien; i.e., holds a Green Card, or, (2) has been naturalized as a U.S. citizen, or (3) is the child of two parents who are both naturalized citizens.](https://www.pdsoros.org)
+
+- [Smithsonian Tropical Research Institute (STRI) for graduate, doctoral, and post-doctoral research exploring Panama's ecosystems while based at STRI](https://stri.si.edu/academic-programs/fellowships)
+
+- [P.E.O. International Peace Scholarship for women to pursue graduate studies in U.S. or Canada](https://www.peointernational.org/educational-support/international-peace-scholarship-fund/)
+
+## Africa and Asia
+
+- [The Aga Khan Foundation's International Scholarship Program for students from select developing countries who have no other means of financing their postgraduate studies](https://the.akdn/en/what-we-do/developing-human-capacity/education/international-scholarships)
+
+- [The Civil Society Leadership Awards (CSLA) for students pursuing master's work who have potential to become civil society leaders in their home communities](https://www.wcl.american.edu/academics/degrees/llm/how-to-apply/scholarships/civil/)
+
+- [Japan-United States Friendship Commission for nominated Japanese students wishing to study in the US (and vice versa)](https://www.jusfc.gov)
+
+## Caribbean and Latin America
+
+- [COMEXUS Fulbright fellowship for Mexican students to study a postgraduate course in the United States](https://www.comexus.org.mx)
+
+## Europe
+
+- [American-Scandinavian Foundation Fellowships supporting one year for Scandinavians to study at the graduate level in the U.S.](https://www.amscan.org/fellowships-and-grants/)
+
+- [Icelandic-American Thor Thors Grant supporting one year for Icelandic nationals to study at the graduate level in the U.S.](https://www.iceam.is/styrkir/skolastyrkir)
+
+
+## South Pacific
+
+- [American Australian Association Graduate Education Fund for Australian students interested in pursuing graduate level study or post-doctoral research in the U.S. ](https://americanaustralian.org/scholarships/education-fund/)
