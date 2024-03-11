@@ -37,6 +37,7 @@ navbar:
       icon: fa-file
   right:
     - icon: fa-envelope fa-lg
+      text: email
       href: mailto:baetgen@oregonstate.edu
 output_dir: "."
 output:

@@ -3,7 +3,7 @@ title: ""
 output: html_document
 ---
 
-# Diel Phytoplankton Bio-optical Properties
+# Diel phytoplankton bio-optical properties
 
 Satellite remote sensing of marine phytoplankton is critical for estimating ocean productivity and carbon cycling. Characterizing day-night cycles in phytoplankton optical properties is essential for improving the translation of remote sensing data into biogeochemical rates and stocks. In this NASA-funded project, we evaluated diel changes in the bio-optical properties for three ecologically relevant phytoplankton species to refine ocean color algorithms and describe them in this [paper](https://doi.org/10.1002/lno.12493).
 \

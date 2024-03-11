@@ -3,13 +3,13 @@ title: ""
 output: html_document
 ---
 
-# Graduate Student Applications
+# Graduate student applications
 
 An *excellent* [guide to graduate school admissions](https://docs.google.com/document/u/2/d/e/2PACX-1vQcAcPKrThKidO-o4inKguECF81jpes1Cjbrs0Jn5aky5zEKXr8xtGBB9NkL5mV56lQTnKfykKhm1zT/pub) process for the UC Santa Barbara Interdepartmental Graduate Program in Marine Science, but with information applicable to other programs. 
 
 The [Hidden Curriculum](https://lor.instructure.com/resources/4dbadf21d0a84ce8b826d97c6f857adb?shared) presented by UW Madison on how to be a successful graduate student and the barriers faced when transitioning into graduate school.
 
-# Funding for Graduate Students
+# Funding for prospective and current graduate students
 
 - [The Johns Hopkins List of Graduate Student Funding Opportunities](https://research.jhu.edu/rdt/funding-opportunities/graduate/)
 
@@ -35,7 +35,7 @@ The [Hidden Curriculum](https://lor.instructure.com/resources/4dbadf21d0a84ce8b8
 
 - [American Association of University Women](https://www.aauw.org/resources/programs/fellowships-grants/)
 
-# Career Opportunities for Graduate Students
+# Open positions for prospective and graduating students
 
 - [Active recruitment efforts in Marine Sciences (compiled by LatinX)](https://docs.google.com/spreadsheets/d/14ySe_J3KMrTUrIvi843btc6SmKefWNuVbReTsabotqM/edit)
 
@@ -45,13 +45,11 @@ The [Hidden Curriculum](https://lor.instructure.com/resources/4dbadf21d0a84ce8b8
 
 - [ECO magazine ocean career list](https://www.ecomagazine.com/news/opportunity/)
 
-# Field Opportunities for Graduate Students
+# Training pportunities for graduate students
 
 - [UNOLS Cruise Opportunity program mailing list](https://www.unols.org/form/contact-us-form)
 
 - [UNOLS Chief Scientist Training Cruise Program](https://www.unols.org/nsf-unols-chief-scientist-training-cruise)
-
-# Summer Courses for Graduate Students
 
 - [NASA/UMaine Calibration & Validation for Ocean Color Remote Sensing summer workshop](https://misclab.umeoce.maine.edu/OceanOpticsClass2023/about/)
 
@@ -59,9 +57,9 @@ The [Hidden Curriculum](https://lor.instructure.com/resources/4dbadf21d0a84ce8b8
 
 - [MBL Microbial Diversity](https://www.mbl.edu/education/advanced-research-training-courses/course-offerings/microbial-diversity)
 
-- [Summer Courses at Friday Harbor Labs](https://fhl.uw.edu/courses/)
+- [Summer courses at Friday Harbor Labs](https://fhl.uw.edu/courses/)
 
-# Community and Support Networks
+# Community and support networks
 
 - [Black in Marine Science](https://www.blackinmarinescience.org)
 

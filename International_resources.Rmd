@@ -3,7 +3,7 @@ title: ""
 output: html_document
 ---
 
-# Funding for International Students
+# Funding for international students
 
 - [American Association of University Women International Fellowships for graduate and postdoctoral study](https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/international/)
 
