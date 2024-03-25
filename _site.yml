@@ -27,6 +27,8 @@ navbar:
       menu:
       - text: Breaking into undergraduate research
         href: Undergrad_research.html
+      - text: Resources for current undergraduate students 
+        href: Undergrad_resources.html
       - text: Resources for prospective and current graduate students 
         href: Graduate_resources.html  
       - text: Funding for international students

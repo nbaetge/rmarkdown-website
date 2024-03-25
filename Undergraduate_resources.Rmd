@@ -1,0 +1,44 @@
+---
+title: ""
+output: html_document
+---
+
+# Oregon State University internal undergraduate support and opportunities
+
+[Undergraduate, Research, Scholarship and the Arts (URSA)](https://undergraduate.oregonstate.edu/research)
+
+## College of Science
+
+- [Summer Undergraduate Research Experience (SURE)](https://science.oregonstate.edu/hands-on-experiences/undergraduate-research/sure-science-program)
+
+- [Launching Undergraduate Research Experiences (LURE)](https://science.oregonstate.edu/hands-on-experiences/undergraduate-research/lure-science-program)
+
+## College of Agricultural Sciences
+
+- [Beginning Researcher Support Program](https://agsci.oregonstate.edu/education/undergraduate-research/beginning-researcher-support-program)
+
+- [Continuing Researcher Support Program](https://agsci.oregonstate.edu/education/undergraduate-research/continuing-researcher-support-program)
+
+- [Branch Experiment Stations (BES) Research Internships](https://agsci.oregonstate.edu/academics/internships/branch-experiment-stations-internship-program)
+
+## CEOS
+
+- [Summer Research Internships](https://ceoas.oregonstate.edu/summer-research-internships-undergraduates)
+
+# External undergraduate support and opportunities
+
+- [NSF Ocean Sciences Research Experiences for Undergraduates (REU)](https://hmsc.oregonstate.edu/research-experiences-undergraduates)
+
+- [NASA undergraduate student funding opportunities](https://science.nasa.gov/learn/learner-opportunities/#undergrad)
+
+- [Ford Foundation Predoctoral Fellowship](https://www.nationalacademies.org/our-work/ford-foundation-fellowships)
+
+- [NOAA undergraduate funding opportunities](http://www.noaa.gov/opportunities/student-opportunities) 
+
+- [Summer courses at Bermuda Institute of Ocean Sciences](https://www.us-ocb.org/science-support/student-opportunities/)
+
+- [AMS Women in Science Scholarship](https://www.ametsoc.org/index.cfm/ams/information-for/students/ams-scholarships-and-fellowships/women-in-science-scholarship/)
+
+- [AMS Scholarship for Underserved Communities](https://www.ametsoc.org/index.cfm/ams/information-for/students/ams-scholarships-and-fellowships/ams-scholarship-for-underserved-communities-formerly-minority-scholarship/)
+
+- [Scholarships in marine science for visiting undergraduate students at Duke](https://nicholas.duke.edu/marinelab/academics/undergraduate/scholarships-financial-aid)
