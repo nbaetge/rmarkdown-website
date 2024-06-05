@@ -7,6 +7,13 @@ output: html_document
 
 #### [Google Scholar](https://scholar.google.com/citations?user=Ca8wN7sAAAAJ&hl=en&authuser=1)
 
+### in prep
+
+Goranov, A.I., Schmitt, N., Agar, J., Harvey, E., **Baetge, N.**, McNair, H., Arrington, E., Stubbins, A., Wagner, S. in prep. Molecular delineation and fertilization of dissolved organic matter of Santa Barbara coastal waters during the Thomas Fire (California, USA).
+
+### in review
+
+**Baetge, N.**, Halsey, K.H., Hanan, E.J., Behrenfeld, M.J., Milligan, A.J., Graff, J.R., Hansen, P., Carlson, C.A., Boiteau, R.B., Arrington, E.A., Comstock, J., Halewood, E.R., Harvey, E.L., Nelson, N.B., Opalk, K., Very Wey, B. in review. Pre-existing in situ conditions shape coastal plankton response to fire-generated ash leachate. *Limnology and Oceanography*
 
 ### 2024
 
