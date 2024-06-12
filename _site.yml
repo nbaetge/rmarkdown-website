@@ -37,8 +37,8 @@ navbar:
     - text: Coding Resources
       href: Coding_resources.html
       icon: fa-code  
-    - text: AJDEI Resources
-      href: AJDEI_resources.html
+    - text: AJEDI Resources
+      href: AJEDI_resources.html
       icon: fa-scale-balanced  
     - text: CV
       href: Academic_CV.html
