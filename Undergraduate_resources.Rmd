@@ -3,6 +3,8 @@ title: ""
 output: html_document
 ---
 
+[Google sheet of funding opportunities](https://docs.google.com/spreadsheets/d/1BaC0sX7I8_mMcXxIThEM2kZgSUqi7-l_BHZe_CUvuhw/edit?gid=194681346#gid=194681346)
+
 # Oregon State University internal undergraduate support and opportunities
 
 [Undergraduate, Research, Scholarship and the Arts (URSA)](https://undergraduate.oregonstate.edu/research)

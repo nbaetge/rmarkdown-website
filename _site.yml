@@ -34,6 +34,12 @@ navbar:
       - text: Funding for international students
         href: International_resources.html  
       icon: fa-folder
+    - text: Coding Resources
+      href: Coding_resources.html
+      icon: fa-code  
+    - text: AJDEI Resources
+      href: AJDEI_resources.html
+      icon: fa-scale-balanced  
     - text: CV
       href: Academic_CV.html
       icon: fa-file

@@ -1,0 +1,28 @@
+---
+title: ""
+output: html_document
+---
+
+# AJEDI Resources 
+
+The following is a list of media I have found insightful and useful about the state and progress of Accessibility, Justice, Equity, Diversity, and Inclusion (AJEDI) in marine science research and education. Also included are resources that are helpful to promoting practices mindful of AJEDI. 
+
+## Literature
+
+- [*Oceanography* special issue on Building Diversity, Equity, and Inclusion in the Ocean Sciences](https://tos.org/oceanography/issue/volume-36-issue-4)
+
+- [AGU Journals Special Collection on Diversity, Equity, and Inclusion](https://agupubs.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)2576-604X.DEIAGU)
+
+-
+
+## Videos
+
+- [The Leadership Toolbox: Team-building and Navigating Conflict (Polar Science Early Career Community Office)](https://www.youtube.com/watch?v=TeA9iywI7KE)
+
+- [NOAA Sea Grant Bias Awareness Training for Reviewers](https://seagrant.noaa.gov/opportunities/funding/bias-awareness-training/)
+
+- [NSF The Art and Science of Reviewing Proposals](https://new.nsf.gov/od/oia/merit-review-orientation)
+
+## Slide decks
+
+- [AGU Peer-Review Essentials: How to Write Exceptional and Respectful Reviews](https://www.agu.org/-/media/files/publications/agu-pubs-webinar-how-to-review-aug-2023.pdf): This includes a tone table that has suggestions on ways to frame constructive comments. 

@@ -1,0 +1,28 @@
+---
+title: ""
+output: html_document
+---
+
+# Coding resources
+
+Here is a list of resources that I found useful for learning a programming language or specific applications in that language.
+
+## R
+
+[Beckerman et al: Getting Started with R: An Introduction for Biologists (2nd edition)](https://www.amazon.com/Getting-Started-R-Introduction-Biologists/dp/0198787847)
+
+[Wickham et al: R for Data Science](https://www.tidyverse.org/learn/)
+
+[Lee: Happy Belly Bioinformatics](https://astrobiomike.github.io)
+
+[Any material by Dr. Allison Horst](https://allisonhorst.github.io)
+
+[Intro to R for use in Marine Microbiology](https://drive.google.com/drive/u/2/folders/14lipZSQuCMKqCCCrjQbpIYEtPhch91L5): These are videos I created for a lab course at UCSB (EEMB 144L) for remote learning in 2020.
+
+## Python
+
+[Anbernathy: An Introduction to Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html)
+
+## MATLAB
+
+[UMAINE MISC Lab Ocean Optics](https://github.com/OceanOptics)
