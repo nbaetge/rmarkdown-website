@@ -26,3 +26,7 @@ The following is a list of media I have found insightful and useful about the st
 ## Slide decks
 
 - [AGU Peer-Review Essentials: How to Write Exceptional and Respectful Reviews](https://www.agu.org/-/media/files/publications/agu-pubs-webinar-how-to-review-aug-2023.pdf): This includes a tone table that has suggestions on ways to frame constructive comments. 
+
+## Hand outs
+
+- Be [FAIR](https://www.go-fair.org/wp-content/uploads/2022/01/FAIRPrinciples_overview.pdf) and [CARE](https://static1.squarespace.com/static/5d3799de845604000199cd24/t/6397b363b502ff481fce6baf/1670886246948/CARE%2BPrinciples_One%2BPagers%2BFINAL_Oct_17_2019.pdf) principles for scientific data management and stewardship
