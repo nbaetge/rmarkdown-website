@@ -4,7 +4,7 @@
 
 .title {
     font-family: "Merriweather";
-    color: #FFBF00;
+    color: #BEBF65;
     font-size: 26px;
 } 
 
@@ -16,7 +16,7 @@ h1 {
 
 h2 {
     font-family: "Merriweather";
-    color: #FFBF00;
+    color: #BEBF65;
     font-size: 22px;
 } 
 
@@ -28,7 +28,7 @@ h3 {
 
 h4 {
     font-family: "Merriweather";
-    color: #FFBF00;
+    color: #BEBF65;
     font-size: 16px;
     font-style: italic;
 } 
@@ -53,8 +53,8 @@ a:hover {
     color: #AEC96F;
 }
 
-body { background-color: black; }
-    pre, pre:not([class]) { background-color: black; }
+body { background-color: #2B2828; }
+    pre, pre:not([class]) { background-color: #2B2828; }
 
 /*----------------ADDING WHITE SPACE-------------*/
 

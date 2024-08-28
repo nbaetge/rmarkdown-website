@@ -6,7 +6,7 @@ output: html_document
 # About me
 
 ```{r, echo=FALSE, fig.cap= "", out.width = '40%', fig.align='center'}
-knitr::include_graphics("images/IMG_0312.JPG")
+knitr::include_graphics("images/IMG_1740.JPG")
 ```
 \
 I am a biological oceanographer who studies microorganisms to understand their role in cycling carbon and energy through ocean ecosystems.

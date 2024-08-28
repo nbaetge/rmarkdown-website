@@ -23,6 +23,8 @@ Here is a list of resources that I found useful for learning a programming langu
 
 [Anbernathy: An Introduction to Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html)
 
+[PACE Hackweek](https://pacehackweek.github.io/pace-2024/intro.html): Resources for exploring remote sensing observations by the NASA PACE satellite using python
+
 ## MATLAB
 
-[UMAINE MISC Lab Ocean Optics](https://github.com/OceanOptics)
+[UMAINE MISC Lab Ocean Optics](https://github.com/OceanOptics): Code for processing or analyzing bio-optical data
