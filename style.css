@@ -68,7 +68,7 @@ body { background-color: #2B2828; }
 .section h3, 
 .section h4, 
 .section h5 { 
-  padding-top: 6em !important; /*adding so much padding because theme adds a margin-top: -65px by default */
+  padding-top: 8em !important; /*adding so much padding because theme adds a margin-top: -65px by default */
   margin-bottom: 1.25em;
 }
 
