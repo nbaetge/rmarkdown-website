@@ -19,7 +19,7 @@ I am currently working with [Dr. Kimberly Halsey](https://kim.halsey.co) and [Dr
 <center>![](movies/km2414.mov){ width=60% }
 \
 \
-<h4 style="font-size: 14px; color: #AEC96F"> "Plankton from the Oregon Coast in July 2023, shot with the Curiosity Microscope."Being a scientist and sailor is too good to be true." - Roger Revelle; a short reel from a 5 day research cruise off Hawaii. </h4></center>
+<h4 style="font-size: 14px; color: #AEC96F"> Being a scientist and sailor is too good to be true." - Roger Revelle; a short reel from a 5 day research cruise off Hawaii. </h4></center>
 \
 My doctoral work was guided by [Dr. Craig Carlson](https://carlson.eemb.ucsb.edu) at UC Santa Barbara and sought to clarify the magnitude and divers of surface dissolved organic carbon (DOC) accumulation over the course of the annual phytoplankton bloom in the North Atlantic, the contribution of DOC to annual vertical carbon export via deep convective mixing, and the fate of surface accumulated DOC following physical export.
 
