@@ -15,3 +15,11 @@ Climate-driven warming is projected to increase the frequency, intensity, and si
 
 \
 How the character of both the ash (e.g., chemical quality, fertilizing v. toxic) and the starting microbial community composition (e.g., diversity, size distribution) influences the microbial response to ash-derived material is unknown. As an National Science Foundation Ocean Sciences Postdoctoral Fellow, I am addressing this knowledge gap by investigating the physiological responses of marine plankton off the U.S West Coast to different types of ash generated from local wildfires and plant biomass. 
+\
+\
+<center>![](movies/sp2319.mov){ width=60% }</center>
+\
+\
+<h4 style="font-size: 16px; color: #AEC96F"> A short reel from a 28 day research cruise off California where we conducted microbial incubation experiments with wildfire ash leachates. </h4>
+
+\

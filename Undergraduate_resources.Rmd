@@ -43,6 +43,6 @@ output: html_document
 
 - [AMS Scholarship for Underserved Communities](https://www.ametsoc.org/index.cfm/ams/information-for/students/ams-scholarships-and-fellowships/ams-scholarship-for-underserved-communities-formerly-minority-scholarship/)
 
--[MBARI Summer Internships](https://www.mbari.org/about/careers/internships/how-to-apply/)
+- [MBARI Summer Internships](https://www.mbari.org/about/careers/internships/how-to-apply/)
 
 - [Scholarships in marine science for visiting undergraduate students at Duke](https://nicholas.duke.edu/marinelab/academics/undergraduate/scholarships-financial-aid)

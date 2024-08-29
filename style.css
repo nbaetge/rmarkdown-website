@@ -3,39 +3,39 @@
  /*------------- Whole Document---------------- */
 
 .title {
-    font-family: "Merriweather";
+    font-family: "Avenir";
     color: #BEBF65;
     font-size: 26px;
 } 
 
 h1 {
-    font-family: "Merriweather";
+    font-family: "Avenir";
     color: #AEC96F;
     font-size: 24px;
 } 
 
 h2 {
-    font-family: "Merriweather";
+    font-family: "Avenir";
     color: #BEBF65;
     font-size: 22px;
 } 
 
 h3 {
-    font-family: "Merriweather";
+    font-family: "Avenir";
     color: #AEC96F;
     font-size: 18px;
 } 
 
 h4 {
-    font-family: "Merriweather";
+    font-family: "Avenir";
     color: #BEBF65;
     font-size: 16px;
     font-style: italic;
 } 
 
 body{
-  font-family: 'Lato';
-  font-size: 14px;
+  font-family: 'Avenir';
+  font-size: 16px;
 }
 
 /* links */
@@ -48,8 +48,8 @@ a:hover {
 }
 
 .caption {
-    font-size: 12px;
-    font-family: "Merriweather";
+    font-size: 14px;
+    font-family: "Avenir";
     color: #AEC96F;
 }
 
