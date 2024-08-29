@@ -4,8 +4,8 @@ navbar:
   title: "Dr. Nick Baetge"
   href: index.html
   left:
-    - text: About
-      href: About.html
+    - text: My Research
+      href: My_Research.html
       icon: fa-home
     - text: Projects
       menu:
