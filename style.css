@@ -59,8 +59,8 @@ body { background-color: #2B2828; }
 /*----------------ADDING WHITE SPACE-------------*/
 
 .title {
-  margin-top: 2em !important;
-  margin-bottom: 0.75em;
+  margin-top: 3em !important;
+  margin-bottom: 1.25em;
 }
 
 .section h1,
@@ -68,8 +68,8 @@ body { background-color: #2B2828; }
 .section h3, 
 .section h4, 
 .section h5 { 
-  padding-top: 5em !important; /*adding so much padding because theme adds a margin-top: -65px by default */
-  margin-bottom: 0.75em;
+  padding-top: 6em !important; /*adding so much padding because theme adds a margin-top: -65px by default */
+  margin-bottom: 1.25em;
 }
 
  /* Space Between TOC and 
