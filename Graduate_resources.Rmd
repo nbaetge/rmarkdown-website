@@ -9,6 +9,9 @@ An *excellent* [guide to graduate school admissions](https://docs.google.com/doc
 
 The [Hidden Curriculum](https://lor.instructure.com/resources/4dbadf21d0a84ce8b826d97c6f857adb?shared) presented by UW Madison on how to be a successful graduate student and the barriers faced when transitioning into graduate school.
 
+[Example applications](https://github.com/RILAB/statements) for grad school apps (incl. NSF GRFP), postdoc apps, and faculty apps.
+
+
 # Funding for prospective and current graduate students
 
 - [Google sheet of funding opportunities](https://docs.google.com/spreadsheets/d/1BaC0sX7I8_mMcXxIThEM2kZgSUqi7-l_BHZe_CUvuhw/edit?gid=194681346#gid=194681346)
@@ -38,6 +41,10 @@ The [Hidden Curriculum](https://lor.instructure.com/resources/4dbadf21d0a84ce8b8
 - [American Association of University Women](https://www.aauw.org/resources/programs/fellowships-grants/)
 
 - [DOE Office of Science graduate student research](https://science.osti.gov/wdts/scgsr)
+
+- [ASLO SciCom Internship](https://www.aslo.org/opportunities-in-aslo/scicomm-internship/)
+
+- [ASLO Multicultural Program](https://www.aslo.org/opportunities-in-aslo/aslo-multicultural-program/)
 
 # Open positions for prospective and graduating students
 

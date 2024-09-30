@@ -46,3 +46,5 @@ output: html_document
 - [MBARI Summer Internships](https://www.mbari.org/about/careers/internships/how-to-apply/)
 
 - [Scholarships in marine science for visiting undergraduate students at Duke](https://nicholas.duke.edu/marinelab/academics/undergraduate/scholarships-financial-aid)
+
+- [ASLO Multicultural Program](https://www.aslo.org/opportunities-in-aslo/aslo-multicultural-program/)
