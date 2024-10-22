@@ -37,6 +37,10 @@ output: html_document
 
 - [NOAA undergraduate funding opportunities](http://www.noaa.gov/opportunities/student-opportunities) 
 
+- [NOAA Ernest F. Hollings and EPP Undergraduate Scholarship Programs](https://oedwebdbapps.iso.noaa.gov/uspa/)
+
+- [The William M. Lapenta NOAA Student Internship Program](https://vlab.noaa.gov/web/lapenta-internship-program)
+
 - [Summer courses at Bermuda Institute of Ocean Sciences](https://www.us-ocb.org/science-support/student-opportunities/)
 
 - [AMS Women in Science Scholarship](https://www.ametsoc.org/index.cfm/ams/information-for/students/ams-scholarships-and-fellowships/women-in-science-scholarship/)
@@ -48,3 +52,5 @@ output: html_document
 - [Scholarships in marine science for visiting undergraduate students at Duke](https://nicholas.duke.edu/marinelab/academics/undergraduate/scholarships-financial-aid)
 
 - [ASLO Multicultural Program](https://www.aslo.org/opportunities-in-aslo/aslo-multicultural-program/)
+
+- [UCSB Promise Fellowship Program](https://www.graddiv.ucsb.edu/promise-fellowship-program)
