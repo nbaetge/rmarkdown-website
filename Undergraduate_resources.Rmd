@@ -9,6 +9,8 @@ output: html_document
 
 [Undergraduate, Research, Scholarship and the Arts (URSA)](https://undergraduate.oregonstate.edu/research)
 
+- [OSU's New Beginnings for Tribal Students (NBTS) program has applications open for summer internship support](https://opencampus.oregonstate.edu/nbts)
+
 ## College of Science
 
 - [Summer Undergraduate Research Experience (SURE)](https://science.oregonstate.edu/hands-on-experiences/undergraduate-research/sure-science-program)

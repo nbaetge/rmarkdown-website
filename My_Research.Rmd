@@ -19,7 +19,7 @@ CO~2~ entering the ocean from the atmosphere is fixed into organic carbon by phy
 \
 \
 ```{r, echo=FALSE, fig.cap= "", out.width = '80%', fig.align='center'}
-knitr::include_graphics("figures/conceptual_fig.png")
+knitr::include_graphics("figures/biologicalCpump_scene.png")
 ```
 \
 My research interests: 
