@@ -31,6 +31,8 @@ output: html_document
 
 # External undergraduate support and opportunities
 
+- [NSF Education & Training Application (ETAP) is a secure online platform that connects applicants to NSF-funded opportunities](https://etap.nsf.gov/search)
+
 - [NSF Ocean Sciences Research Experiences for Undergraduates (REU)](https://hmsc.oregonstate.edu/research-experiences-undergraduates)
 
 - [NASA undergraduate student funding opportunities](https://science.nasa.gov/learn/learner-opportunities/#undergrad)
