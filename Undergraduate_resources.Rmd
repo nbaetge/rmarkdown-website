@@ -25,6 +25,8 @@ output: html_document
 
 - [Branch Experiment Stations (BES) Research Internships](https://agsci.oregonstate.edu/academics/internships/branch-experiment-stations-internship-program)
 
+- [2025 Research and Extension Experiences for Undergraduates (REEU) program](https://oregonstate-idea.terradotta.com/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10845)
+
 ## CEOS
 
 - [Summer Research Internships](https://ceoas.oregonstate.edu/summer-research-internships-undergraduates)
